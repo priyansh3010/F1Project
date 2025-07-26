@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,2.0,2.0,0 days 00:00:00.020000,8.0,False,1.0
+Lando Norris,McLaren,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,1.0,1.0,0 days 00:00:00,10.0,False,2.0
+Lewis Hamilton,Mercedes,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,3.0,3.0,0 days 00:00:00.318000,4.0,False,3.0
+George Russell,Mercedes,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,4.0,4.0,0 days 00:00:00.320000,3.0,False,4.0
+Charles Leclerc,Ferrari,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,5.0,5.0,0 days 00:00:00.348000,6.0,False,5.0
+Carlos Sainz,Ferrari,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,6.0,6.0,0 days 00:00:00.353000,5.0,False,6.0
+Oscar Piastri,McLaren,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,10.0,9.0,0 days 00:00:00.628000,1.0,False,7.0
+Sergio Perez,Red Bull Racing,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,8.0,11.0,0 days 00:00:00.678000,2.0,False,8.0
+Pierre Gasly,Alpine,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,7.0,7.0,0 days 00:00:00.474000,9.0,False,9.0
+Esteban Ocon,Alpine,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,9.0,8.0,0 days 00:00:00.742000,7.0,False,10.0
+Nico Hulkenberg,Haas F1 Team,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,13.0,13.0,0 days 00:00:00.927000,16.0,False,11.0
+Fernando Alonso,Aston Martin,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,11.0,10.0,0 days 00:00:00.745000,14.0,False,12.0
+Guanyu Zhou,Kick Sauber,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,15.0,15.0,0 days 00:00:01.355000,12.0,False,13.0
+Lance Stroll,Aston Martin,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,14.0,14.0,0 days 00:00:00.989000,11.0,False,14.0
+Daniel Ricciardo,RB,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,18.0,18.0,0 days 00:00:01.692000,17.0,False,15.0
+Valtteri Bottas,Kick Sauber,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,12.0,12.0,0 days 00:00:00.844000,15.0,False,16.0
+Kevin Magnussen,Haas F1 Team,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,16.0,16.0,0 days 00:00:01.554000,13.0,False,17.0
+Yuki Tsunoda,RB,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,17.0,17.0,0 days 00:00:01.602000,18.0,False,19.0
+Logan Sargeant,Williams,2024,10,54,Barcelona,0.64935,2.12338,24.13247,41.0961,20.0,19.0,0 days 00:00:02.126000,19.0,False,20.0

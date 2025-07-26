@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,2.0,2.0,0 days 00:00:00.304000,3.0,False,1.0
+Lewis Hamilton,Mercedes,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,4.0,4.0,0 days 00:00:00.893000,6.0,False,2.0
+George Russell,Mercedes,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,6.0,6.0,0 days 00:00:01.259000,4.0,False,3.0
+Sergio Perez,Red Bull Racing,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,3.0,3.0,0 days 00:00:00.463000,2.0,False,4.0
+Carlos Sainz,Ferrari,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,9.0,19.0,0 days 00:00:00.209000,1.0,False,5.0
+Fernando Alonso,Alpine,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,7.0,7.0,0 days 00:00:01.680000,12.0,False,6.0
+Lando Norris,McLaren,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,5.0,5.0,0 days 00:00:01.160000,11.0,False,7.0
+Esteban Ocon,Alpine,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,12.0,10.0,0 days 00:00:02.176000,7.0,False,8.0
+Daniel Ricciardo,McLaren,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,11.0,9.0,0 days 00:00:02.050000,5.0,False,9.0
+Lance Stroll,Aston Martin,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,17.0,15.0,0 days 00:00:02.567000,14.0,False,10.0
+Sebastian Vettel,Aston Martin,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,14.0,12.0,0 days 00:00:02.404000,17.0,False,11.0
+Pierre Gasly,AlphaTauri,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,16.0,14.0,0 days 00:00:02.567000,8.0,False,12.0
+Valtteri Bottas,Alfa Romeo,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,13.0,11.0,0 days 00:00:02.180000,18.0,False,14.0
+Mick Schumacher,Haas F1 Team,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,19.0,17.0,0 days 00:00:02.829000,10.0,False,15.0
+Guanyu Zhou,Alfa Romeo,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,18.0,16.0,0 days 00:00:02.802000,13.0,True,16.0
+Nicholas Latifi,Williams,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,20.0,18.0,0 days 00:00:02.922000,15.0,True,17.0
+Kevin Magnussen,Haas F1 Team,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,10.0,20.0,0 days 00:00:01.777000,19.0,True,18.0
+Charles Leclerc,Ferrari,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,1.0,1.0,0 days 00:00:00,9.0,True,19.0
+Yuki Tsunoda,AlphaTauri,2022,12,12,Le Castellet,0.0,1.94609,30.16484,54.46172,8.0,8.0,0 days 00:00:01.908000,16.0,True,20.0

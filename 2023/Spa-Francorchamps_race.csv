@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,1.0,6.0,0 days 00:00:00,3.0,False,1.0
+Sergio Perez,Red Bull Racing,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,3.0,2.0,0 days 00:00:00.877000,1.0,False,2.0
+Charles Leclerc,Ferrari,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,2.0,1.0,0 days 00:00:00.820000,5.0,False,3.0
+Lewis Hamilton,Mercedes,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,4.0,3.0,0 days 00:00:00.919000,8.0,False,4.0
+Fernando Alonso,Aston Martin,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,9.0,9.0,0 days 00:00:01.675000,10.0,False,5.0
+George Russell,Mercedes,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,8.0,8.0,0 days 00:00:01.637000,4.0,False,6.0
+Lando Norris,McLaren,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,7.0,7.0,0 days 00:00:01.501000,6.0,False,7.0
+Esteban Ocon,Alpine,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,15.0,14.0,0 days 00:00:10.204000,12.0,False,8.0
+Lance Stroll,Aston Martin,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,10.0,10.0,0 days 00:00:02.673000,9.0,False,9.0
+Yuki Tsunoda,AlphaTauri,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,11.0,11.0,0 days 00:00:06.980000,19.0,False,10.0
+Pierre Gasly,Alpine,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,12.0,12.0,0 days 00:00:07.503000,15.0,False,11.0
+Valtteri Bottas,Alfa Romeo,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,14.0,13.0,0 days 00:00:08.526000,17.0,False,12.0
+Guanyu Zhou,Alfa Romeo,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,17.0,17.0,0 days 00:00:14.664000,14.0,False,13.0
+Kevin Magnussen,Haas F1 Team,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,13.0,16.0,0 days 00:00:07.992000,20.0,False,15.0
+Daniel Ricciardo,AlphaTauri,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,19.0,19.0,0 days 00:00:15.991000,11.0,False,16.0
+Logan Sargeant,Williams,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,18.0,18.0,0 days 00:00:15.367000,16.0,False,17.0
+Nico Hulkenberg,Haas F1 Team,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,20.0,20.0,0 days 00:00:16.998000,13.0,False,18.0
+Carlos Sainz,Ferrari,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,5.0,4.0,0 days 00:00:00.984000,2.0,True,19.0
+Oscar Piastri,McLaren,2023,12,34,Spa-Francorchamps,7.33333,1.59467,17.87333,28.24067,6.0,5.0,0 days 00:00:01.197000,7.0,True,20.0

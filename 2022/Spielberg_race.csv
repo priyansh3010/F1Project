@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Charles Leclerc,Ferrari,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,2.0,2.0,0 days 00:00:00.029000,3.0,False,1.0
+Max Verstappen,Red Bull Racing,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,1.0,1.0,0 days 00:00:00,13.0,False,2.0
+Lewis Hamilton,Mercedes,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,9.0,8.0,0 days 00:00:08.167000,4.0,False,3.0
+George Russell,Mercedes,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,4.0,4.0,0 days 00:00:00.447000,9.0,False,4.0
+Esteban Ocon,Alpine,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,5.0,6.0,0 days 00:00:00.742000,8.0,False,5.0
+Mick Schumacher,Haas F1 Team,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,7.0,9.0,0 days 00:00:01.027000,6.0,True,6.0
+Lando Norris,McLaren,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,15.0,10.0,0 days 00:00:20.863000,16.0,True,7.0
+Kevin Magnussen,Haas F1 Team,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,6.0,7.0,0 days 00:00:00.895000,7.0,True,8.0
+Daniel Ricciardo,McLaren,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,16.0,11.0,0 days 00:00:01.629000,15.0,True,9.0
+Fernando Alonso,Alpine,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,8.0,19.0,0 days 00:00:01.119000,5.0,True,10.0
+Valtteri Bottas,Alfa Romeo,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,12.0,0.0,0 days 00:00:01.335000,18.0,True,11.0
+Lance Stroll,Aston Martin,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,17.0,12.0,0 days 00:00:01.863000,20.0,True,13.0
+Guanyu Zhou,Alfa Romeo,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,18.0,13.0,0 days 00:00:01.917000,12.0,True,14.0
+Pierre Gasly,AlphaTauri,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,10.0,14.0,0 days 00:00:01.176000,14.0,True,15.0
+Yuki Tsunoda,AlphaTauri,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,14.0,16.0,0 days 00:00:01.867000,10.0,True,16.0
+Sebastian Vettel,Aston Martin,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,20.0,18.0,0 days 00:00:02.099000,17.0,True,17.0
+Carlos Sainz,Ferrari,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,3.0,3.0,0 days 00:00:00.082000,2.0,True,18.0
+Nicholas Latifi,Williams,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,19.0,17.0,0 days 00:00:02.019000,11.0,True,19.0
+Sergio Perez,Red Bull Racing,2022,11,11,Spielberg,0.0,1.25526,20.25592,30.74671,13.0,5.0,0 days 00:00:01.474000,1.0,True,20.0

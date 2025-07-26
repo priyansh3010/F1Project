@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Sergio Perez,Red Bull Racing,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,3.0,3.0,0 days 00:00:00.253000,4.0,False,1.0
+Carlos Sainz,Ferrari,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,2.0,2.0,0 days 00:00:00.225000,1.0,False,2.0
+Max Verstappen,Red Bull Racing,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,4.0,4.0,0 days 00:00:00.290000,3.0,False,3.0
+Charles Leclerc,Ferrari,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,1.0,1.0,0 days 00:00:00,2.0,False,4.0
+George Russell,Mercedes,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,6.0,6.0,0 days 00:00:00.736000,8.0,False,5.0
+Lando Norris,McLaren,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,5.0,5.0,0 days 00:00:00.473000,14.0,False,6.0
+Fernando Alonso,Alpine,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,7.0,7.0,0 days 00:00:00.871000,10.0,False,7.0
+Lewis Hamilton,Mercedes,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,8.0,8.0,0 days 00:00:01.184000,6.0,False,8.0
+Valtteri Bottas,Alfa Romeo,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,12.0,12.0,0 days 00:00:01.533000,20.0,False,9.0
+Sebastian Vettel,Aston Martin,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,9.0,9.0,0 days 00:00:01.356000,18.0,False,10.0
+Pierre Gasly,AlphaTauri,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,17.0,17.0,0 days 00:00:02.284000,11.0,False,11.0
+Esteban Ocon,Alpine,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,10.0,10.0,0 days 00:00:01.671000,7.0,False,12.0
+Daniel Ricciardo,McLaren,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,14.0,14.0,0 days 00:00:01.588000,5.0,False,13.0
+Lance Stroll,Aston Martin,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,18.0,18.0,0 days 00:00:02.302000,9.0,False,14.0
+Nicholas Latifi,Williams,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,19.0,19.0,0 days 00:00:03.027000,16.0,True,15.0
+Guanyu Zhou,Alfa Romeo,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,20.0,20.0,0 days 00:00:04.230000,12.0,True,16.0
+Yuki Tsunoda,AlphaTauri,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,11.0,11.0,0 days 00:00:01.421000,17.0,True,17.0
+Mick Schumacher,Haas F1 Team,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,15.0,15.0,0 days 00:00:01.705000,13.0,True,19.0
+Kevin Magnussen,Haas F1 Team,2022,7,7,Monaco,43.67347,0.9902,22.27469,31.03837,13.0,13.0,0 days 00:00:01.545000,15.0,True,20.0

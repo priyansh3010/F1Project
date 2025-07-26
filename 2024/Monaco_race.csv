@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Charles Leclerc,Ferrari,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,1.0,1.0,0 days 00:00:00,3.0,False,1.0
+Oscar Piastri,McLaren,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,2.0,2.0,0 days 00:00:00.154000,4.0,False,2.0
+Carlos Sainz,Ferrari,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,3.0,3.0,0 days 00:00:00.248000,1.0,False,3.0
+Lando Norris,McLaren,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,4.0,4.0,0 days 00:00:00.272000,2.0,False,4.0
+George Russell,Mercedes,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,5.0,5.0,0 days 00:00:00.273000,7.0,False,5.0
+Max Verstappen,Red Bull Racing,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,6.0,6.0,0 days 00:00:00.297000,16.0,False,6.0
+Lewis Hamilton,Mercedes,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,7.0,7.0,0 days 00:00:00.351000,5.0,False,7.0
+Yuki Tsunoda,RB,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,8.0,8.0,0 days 00:00:00.588000,12.0,False,8.0
+Pierre Gasly,Alpine,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,10.0,10.0,0 days 00:00:01.041000,11.0,False,10.0
+Fernando Alonso,Aston Martin,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,14.0,14.0,0 days 00:00:01.749000,13.0,False,11.0
+Daniel Ricciardo,RB,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,12.0,12.0,0 days 00:00:01.212000,8.0,False,12.0
+Valtteri Bottas,Kick Sauber,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,17.0,17.0,0 days 00:00:02.242000,18.0,False,13.0
+Lance Stroll,Aston Martin,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,13.0,13.0,0 days 00:00:01.293000,14.0,False,14.0
+Logan Sargeant,Williams,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,15.0,15.0,0 days 00:00:01.750000,9.0,False,15.0
+Guanyu Zhou,Kick Sauber,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,18.0,18.0,0 days 00:00:02.758000,17.0,False,16.0
+Esteban Ocon,Alpine,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,11.0,11.0,0 days 00:00:01.015000,10.0,True,17.0
+Sergio Perez,Red Bull Racing,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,16.0,16.0,0 days 00:00:01.790000,6.0,True,18.0
+Nico Hulkenberg,Haas F1 Team,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,14.0,19.0,0 days 00:00:01.170000,15.0,True,19.0
+Kevin Magnussen,Haas F1 Team,2024,8,52,Monaco,0.0,0.9795,21.5965,46.318,15.0,20.0,0 days 00:00:01.455000,14.0,True,20.0

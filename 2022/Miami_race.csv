@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,3.0,3.0,0 days 00:00:00.195000,4.0,False,1.0
+Charles Leclerc,Ferrari,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,1.0,1.0,0 days 00:00:00,2.0,False,2.0
+Carlos Sainz,Ferrari,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,2.0,2.0,0 days 00:00:00.190000,1.0,False,3.0
+Sergio Perez,Red Bull Racing,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,4.0,4.0,0 days 00:00:00.240000,3.0,False,4.0
+George Russell,Mercedes,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,12.0,12.0,0 days 00:00:01.377000,6.0,False,5.0
+Lewis Hamilton,Mercedes,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,6.0,6.0,0 days 00:00:00.829000,12.0,False,6.0
+Valtteri Bottas,Alfa Romeo,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,5.0,5.0,0 days 00:00:00.679000,17.0,False,7.0
+Esteban Ocon,Alpine,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,20.0,20.0,NaT,11.0,False,8.0
+Lance Stroll,Aston Martin,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,10.0,0.0,0 days 00:00:01.880000,13.0,False,10.0
+Fernando Alonso,Alpine,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,11.0,11.0,0 days 00:00:01.364000,20.0,False,11.0
+Yuki Tsunoda,AlphaTauri,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,9.0,9.0,0 days 00:00:01.136000,7.0,False,12.0
+Daniel Ricciardo,McLaren,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,14.0,14.0,0 days 00:00:01.514000,8.0,False,13.0
+Nicholas Latifi,Williams,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,19.0,19.0,0 days 00:00:02.529000,18.0,False,14.0
+Mick Schumacher,Haas F1 Team,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,15.0,15.0,0 days 00:00:01.627000,16.0,False,15.0
+Kevin Magnussen,Haas F1 Team,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,16.0,16.0,0 days 00:00:02.179000,15.0,True,16.0
+Sebastian Vettel,Aston Martin,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,13.0,0.0,0 days 00:00:01.418000,10.0,True,17.0
+Pierre Gasly,AlphaTauri,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,7.0,7.0,0 days 00:00:00.894000,9.0,True,18.0
+Lando Norris,McLaren,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,8.0,8.0,0 days 00:00:00.954000,14.0,True,19.0
+Guanyu Zhou,Alfa Romeo,2022,5,5,Miami,5.55556,2.26728,30.61728,42.81975,17.0,17.0,0 days 00:00:02.224000,5.0,True,20.0

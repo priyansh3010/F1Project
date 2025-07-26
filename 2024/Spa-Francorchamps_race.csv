@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Lewis Hamilton,Mercedes,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,4.0,3.0,0 days 00:00:00.676000,7.0,False,1.0
+Oscar Piastri,McLaren,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,6.0,5.0,0 days 00:00:00.868000,5.0,False,2.0
+Charles Leclerc,Ferrari,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,2.0,1.0,0 days 00:00:00.595000,8.0,False,3.0
+Max Verstappen,Red Bull Racing,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,1.0,11.0,0 days 00:00:00,3.0,False,4.0
+Lando Norris,McLaren,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,5.0,4.0,0 days 00:00:00.822000,6.0,False,5.0
+Carlos Sainz,Ferrari,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,8.0,7.0,0 days 00:00:01.318000,2.0,False,6.0
+Sergio Perez,Red Bull Racing,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,3.0,2.0,0 days 00:00:00.606000,1.0,False,7.0
+Fernando Alonso,Aston Martin,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,9.0,8.0,0 days 00:00:01.606000,15.0,False,8.0
+Esteban Ocon,Alpine,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,10.0,9.0,0 days 00:00:01.651000,12.0,False,9.0
+Daniel Ricciardo,RB,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,13.0,13.0,0 days 00:00:01.523000,18.0,False,10.0
+Lance Stroll,Aston Martin,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,15.0,15.0,0 days 00:00:02.557000,9.0,False,11.0
+Pierre Gasly,Alpine,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,12.0,12.0,0 days 00:00:01.476000,10.0,False,13.0
+Kevin Magnussen,Haas F1 Team,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,17.0,17.0,0 days 00:00:03.341000,16.0,False,14.0
+Valtteri Bottas,Kick Sauber,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,14.0,14.0,0 days 00:00:01.605000,20.0,False,15.0
+Yuki Tsunoda,RB,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,18.0,20.0,0 days 00:00:03.434000,13.0,False,16.0
+Logan Sargeant,Williams,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,19.0,18.0,0 days 00:00:04.071000,11.0,False,17.0
+Nico Hulkenberg,Haas F1 Team,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,16.0,16.0,0 days 00:00:03.149000,17.0,False,18.0
+Guanyu Zhou,Kick Sauber,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,20.0,19.0,0 days 00:00:04.616000,14.0,True,19.0
+George Russell,Mercedes,2024,14,58,Spa-Francorchamps,0.0,1.68321,21.32847,42.26715,7.0,6.0,0 days 00:00:01.025000,4.0,True,20.0

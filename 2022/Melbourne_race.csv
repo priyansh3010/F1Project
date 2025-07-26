@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Charles Leclerc,Ferrari,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,1.0,1.0,0 days 00:00:00,9.0,False,1.0
+Sergio Perez,Red Bull Racing,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,3.0,3.0,0 days 00:00:00.372000,2.0,False,2.0
+George Russell,Mercedes,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,6.0,6.0,0 days 00:00:01.065000,5.0,False,3.0
+Lewis Hamilton,Mercedes,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,5.0,5.0,0 days 00:00:00.957000,6.0,False,4.0
+Lando Norris,McLaren,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,4.0,4.0,0 days 00:00:00.835000,7.0,False,5.0
+Daniel Ricciardo,McLaren,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,7.0,7.0,0 days 00:00:01.164000,4.0,False,6.0
+Esteban Ocon,Alpine,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,8.0,8.0,0 days 00:00:01.193000,10.0,False,7.0
+Valtteri Bottas,Alfa Romeo,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,12.0,12.0,0 days 00:00:01.542000,14.0,False,8.0
+Pierre Gasly,AlphaTauri,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,11.0,11.0,0 days 00:00:01.358000,13.0,False,9.0
+Guanyu Zhou,Alfa Romeo,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,14.0,14.0,0 days 00:00:02.287000,12.0,False,11.0
+Lance Stroll,Aston Martin,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,20.0,19.0,NaT,18.0,False,12.0
+Mick Schumacher,Haas F1 Team,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,15.0,15.0,0 days 00:00:02.597000,17.0,True,13.0
+Kevin Magnussen,Haas F1 Team,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,17.0,16.0,0 days 00:00:02.386000,15.0,True,14.0
+Yuki Tsunoda,AlphaTauri,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,13.0,13.0,0 days 00:00:01.556000,11.0,True,15.0
+Nicholas Latifi,Williams,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,19.0,18.0,0 days 00:00:03.504000,16.0,True,16.0
+Fernando Alonso,Alpine,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,10.0,10.0,0 days 00:00:00.947000,8.0,True,17.0
+Max Verstappen,Red Bull Racing,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,2.0,2.0,0 days 00:00:00.286000,3.0,True,18.0
+Sebastian Vettel,Aston Martin,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,18.0,17.0,0 days 00:00:03.281000,20.0,True,19.0
+Carlos Sainz,Ferrari,2022,3,3,Melbourne,0.0,1.81282,26.69744,37.40833,9.0,9.0,0 days 00:00:01.540000,1.0,True,20.0

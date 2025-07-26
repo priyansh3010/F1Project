@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+George Russell,Mercedes,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,1.0,1.0,0 days 00:00:00,10.0,False,1.0
+Lewis Hamilton,Mercedes,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,10.0,10.0,0 days 00:00:15.794000,1.0,False,2.0
+Carlos Sainz,Ferrari,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,2.0,2.0,0 days 00:00:00.098000,4.0,False,3.0
+Charles Leclerc,Ferrari,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,4.0,4.0,0 days 00:00:00.471000,2.0,False,4.0
+Max Verstappen,Red Bull Racing,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,5.0,5.0,0 days 00:00:00.485000,16.0,False,5.0
+Lando Norris,McLaren,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,6.0,6.0,0 days 00:00:00.696000,8.0,False,6.0
+Oscar Piastri,McLaren,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,8.0,8.0,0 days 00:00:00.721000,6.0,False,7.0
+Nico Hulkenberg,Haas F1 Team,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,9.0,9.0,0 days 00:00:00.750000,12.0,False,8.0
+Yuki Tsunoda,RB,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,7.0,7.0,0 days 00:00:00.717000,15.0,False,9.0
+Sergio Perez,Red Bull Racing,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,16.0,15.0,0 days 00:00:01.843000,5.0,False,10.0
+Fernando Alonso,Aston Martin,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,17.0,16.0,0 days 00:00:01.946000,20.0,False,11.0
+Kevin Magnussen,Haas F1 Team,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,12.0,12.0,0 days 00:00:00.985000,9.0,False,12.0
+Guanyu Zhou,Kick Sauber,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,13.0,13.0,0 days 00:00:01.254000,19.0,False,13.0
+Franco Colapinto,Williams,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,14.0,20.0,0 days 00:00:01.437000,18.0,False,14.0
+Lance Stroll,Aston Martin,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,20.0,18.0,0 days 00:00:02.172000,17.0,False,15.0
+Liam Lawson,RB,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,15.0,14.0,0 days 00:00:01.945000,7.0,False,16.0
+Esteban Ocon,Alpine,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,11.0,11.0,0 days 00:00:00.909000,3.0,False,17.0
+Valtteri Bottas,Kick Sauber,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,19.0,19.0,0 days 00:00:02.118000,13.0,False,18.0
+Pierre Gasly,Alpine,2024,22,66,Las Vegas,0.0,2.8986,17.82517,17.72378,3.0,3.0,0 days 00:00:00.352000,11.0,True,20.0

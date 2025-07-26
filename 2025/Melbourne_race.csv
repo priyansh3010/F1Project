@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Lando Norris,McLaren,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,1.0,1.0,0 days 00:00:00,2.0,False,1.0
+Max Verstappen,Red Bull Racing,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,3.0,3.0,0 days 00:00:00.385000,18.0,False,2.0
+George Russell,Mercedes,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,4.0,4.0,0 days 00:00:00.450000,16.0,False,3.0
+Andrea Kimi Antonelli,Mercedes,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,16.0,16.0,0 days 00:00:01.429000,4.0,False,4.0
+Lance Stroll,Aston Martin,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,13.0,13.0,0 days 00:00:01.387000,12.0,False,6.0
+Nico Hulkenberg,Kick Sauber,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,17.0,17.0,0 days 00:00:01.483000,15.0,False,7.0
+Charles Leclerc,Ferrari,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,7.0,7.0,0 days 00:00:00.659000,8.0,False,8.0
+Oscar Piastri,McLaren,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,2.0,2.0,0 days 00:00:00.084000,1.0,False,9.0
+Lewis Hamilton,Ferrari,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,8.0,8.0,0 days 00:00:00.877000,7.0,False,10.0
+Pierre Gasly,Alpine,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,9.0,9.0,0 days 00:00:00.884000,14.0,False,11.0
+Yuki Tsunoda,Racing Bulls,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,5.0,5.0,0 days 00:00:00.574000,11.0,False,12.0
+Esteban Ocon,Haas F1 Team,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,19.0,19.0,0 days 00:00:02.051000,20.0,False,13.0
+Oliver Bearman,Haas F1 Team,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,20.0,20.0,NaT,19.0,False,14.0
+Liam Lawson,Red Bull Racing,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,18.0,18.0,0 days 00:00:01.998000,3.0,True,15.0
+Gabriel Bortoleto,Kick Sauber,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,15.0,15.0,0 days 00:00:02.424000,17.0,True,16.0
+Fernando Alonso,Aston Martin,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,12.0,12.0,0 days 00:00:01.357000,13.0,True,17.0
+Carlos Sainz,Williams,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,10.0,10.0,0 days 00:00:00.966000,6.0,True,18.0
+Jack Doohan,Alpine,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,14.0,14.0,0 days 00:00:01.767000,9.0,True,19.0
+Isack Hadjar,Racing Bulls,2025,1,69,Melbourne,32.58427,3.47528,15.70787,18.94213,11.0,11.0,0 days 00:00:01.079000,5.0,True,20.0

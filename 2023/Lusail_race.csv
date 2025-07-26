@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,1.0,1.0,0 days 00:00:00,13.0,False,1.0
+Oscar Piastri,McLaren,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,6.0,6.0,0 days 00:00:00.762000,10.0,False,2.0
+Lando Norris,McLaren,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,10.0,10.0,0 days 00:00:00.907000,6.0,False,3.0
+George Russell,Mercedes,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,2.0,2.0,0 days 00:00:00.441000,3.0,False,4.0
+Charles Leclerc,Ferrari,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,5.0,5.0,0 days 00:00:00.646000,12.0,False,5.0
+Fernando Alonso,Aston Martin,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,4.0,4.0,0 days 00:00:00.591000,17.0,False,6.0
+Esteban Ocon,Alpine,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,8.0,8.0,0 days 00:00:00.985000,7.0,False,7.0
+Valtteri Bottas,Alfa Romeo,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,9.0,9.0,0 days 00:00:01.280000,20.0,False,8.0
+Guanyu Zhou,Alfa Romeo,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,20.0,19.0,0 days 00:00:03.654000,9.0,False,9.0
+Sergio Perez,Red Bull Racing,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,13.0,20.0,0 days 00:00:01.684000,1.0,False,10.0
+Lance Stroll,Aston Martin,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,17.0,16.0,0 days 00:00:02.567000,4.0,False,11.0
+Pierre Gasly,Alpine,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,7.0,7.0,0 days 00:00:00.775000,8.0,False,12.0
+Kevin Magnussen,Haas F1 Team,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,19.0,18.0,0 days 00:00:03.268000,15.0,False,14.0
+Yuki Tsunoda,AlphaTauri,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,11.0,11.0,0 days 00:00:01.523000,18.0,False,15.0
+Nico Hulkenberg,Haas F1 Team,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,15.0,14.0,0 days 00:00:02.005000,19.0,False,16.0
+Liam Lawson,AlphaTauri,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,18.0,17.0,0 days 00:00:02.857000,11.0,False,17.0
+Logan Sargeant,Williams,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,16.0,15.0,0 days 00:00:02.432000,14.0,True,18.0
+Lewis Hamilton,Mercedes,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,3.0,3.0,0 days 00:00:00.527000,2.0,True,19.0
+Carlos Sainz,Ferrari,2023,17,39,Lusail,0.0,0.88994,31.46289,36.93208,12.0,12.0,0 days 00:00:01.550000,5.0,True,20.0

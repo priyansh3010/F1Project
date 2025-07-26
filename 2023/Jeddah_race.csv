@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Sergio Perez,Red Bull Racing,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,1.0,1.0,0 days 00:00:00,15.0,False,1.0
+Max Verstappen,Red Bull Racing,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,15.0,15.0,0 days 00:00:21.688000,1.0,False,2.0
+Fernando Alonso,Aston Martin,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,3.0,2.0,0 days 00:00:00.465000,6.0,False,3.0
+George Russell,Mercedes,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,4.0,3.0,0 days 00:00:00.592000,8.0,False,4.0
+Lewis Hamilton,Mercedes,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,8.0,7.0,0 days 00:00:00.958000,4.0,False,5.0
+Carlos Sainz,Ferrari,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,5.0,4.0,0 days 00:00:00.666000,2.0,False,6.0
+Charles Leclerc,Ferrari,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,2.0,12.0,0 days 00:00:00.155000,5.0,False,7.0
+Esteban Ocon,Alpine,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,7.0,6.0,0 days 00:00:00.813000,10.0,False,8.0
+Pierre Gasly,Alpine,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,10.0,9.0,0 days 00:00:01.092000,7.0,False,9.0
+Kevin Magnussen,Haas F1 Team,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,13.0,13.0,0 days 00:00:01.369000,11.0,False,10.0
+Yuki Tsunoda,AlphaTauri,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,16.0,16.0,0 days 00:00:01.674000,18.0,False,11.0
+Nico Hulkenberg,Haas F1 Team,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,11.0,10.0,0 days 00:00:01.186000,13.0,False,12.0
+Guanyu Zhou,Alfa Romeo,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,12.0,11.0,0 days 00:00:01.196000,14.0,False,13.0
+Nyck De Vries,AlphaTauri,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,18.0,18.0,0 days 00:00:01.979000,16.0,False,14.0
+Oscar Piastri,McLaren,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,9.0,8.0,0 days 00:00:00.978000,19.0,False,15.0
+Logan Sargeant,Williams,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,20.0,20.0,0 days 00:00:40.245000,17.0,False,16.0
+Lando Norris,McLaren,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,19.0,19.0,0 days 00:00:02.182000,9.0,False,17.0
+Valtteri Bottas,Alfa Romeo,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,14.0,14.0,0 days 00:00:01.403000,12.0,False,18.0
+Lance Stroll,Aston Martin,2023,2,24,Jeddah,0.0,1.7723,26.09189,31.79257,6.0,5.0,0 days 00:00:00.680000,3.0,True,20.0

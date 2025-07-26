@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Oscar Piastri,McLaren,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,1.0,1.0,0 days 00:00:00,6.0,False,1.0
+George Russell,Mercedes,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,2.0,3.0,0 days 00:00:00.168000,4.0,False,2.0
+Lando Norris,McLaren,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,6.0,6.0,0 days 00:00:00.426000,1.0,False,3.0
+Charles Leclerc,Ferrari,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,3.0,2.0,0 days 00:00:00.334000,9.0,False,4.0
+Lewis Hamilton,Ferrari,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,9.0,9.0,0 days 00:00:00.931000,3.0,False,5.0
+Max Verstappen,Red Bull Racing,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,7.0,7.0,0 days 00:00:00.582000,10.0,False,6.0
+Pierre Gasly,Alpine,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,5.0,4.0,0 days 00:00:00.375000,11.0,False,7.0
+Esteban Ocon,Haas F1 Team,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,14.0,14.0,0 days 00:00:01.753000,20.0,False,8.0
+Yuki Tsunoda,Red Bull Racing,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,10.0,10.0,0 days 00:00:01.462000,7.0,False,9.0
+Oliver Bearman,Haas F1 Team,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,20.0,20.0,0 days 00:00:02.532000,14.0,False,10.0
+Kimi Antonelli,Mercedes,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,4.0,5.0,0 days 00:00:00.372000,2.0,False,11.0
+Isack Hadjar,Racing Bulls,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,12.0,12.0,0 days 00:00:01.430000,17.0,False,13.0
+Jack Doohan,Alpine,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,11.0,11.0,0 days 00:00:01.404000,5.0,False,14.0
+Fernando Alonso,Aston Martin,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,13.0,13.0,0 days 00:00:02.045000,19.0,False,15.0
+Liam Lawson,Racing Bulls,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,17.0,17.0,0 days 00:00:02.324000,12.0,False,16.0
+Lance Stroll,Aston Martin,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,19.0,19.0,0 days 00:00:02.442000,13.0,False,17.0
+Gabriel Bortoleto,Kick Sauber,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,18.0,18.0,0 days 00:00:02.345000,16.0,False,18.0
+Carlos Sainz,Williams,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,8.0,8.0,0 days 00:00:00.839000,15.0,True,19.0
+Nico Hulkenberg,Kick Sauber,2025,4,72,Sakhir,0.0,2.1057,27.05253,31.87025,16.0,16.0,0 days 00:00:02.226000,18.0,True,20.0

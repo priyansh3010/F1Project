@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Lando Norris,McLaren,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,1.0,1.0,0 days 00:00:00,3.0,False,1.0
+Max Verstappen,Red Bull Racing,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,2.0,2.0,0 days 00:00:00.356000,5.0,False,2.0
+Charles Leclerc,Ferrari,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,6.0,6.0,0 days 00:00:00.909000,10.0,False,3.0
+Oscar Piastri,McLaren,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,3.0,3.0,0 days 00:00:00.499000,1.0,False,4.0
+Carlos Sainz,Ferrari,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,10.0,10.0,0 days 00:00:01.241000,6.0,False,5.0
+Sergio Perez,Red Bull Racing,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,5.0,5.0,0 days 00:00:00.743000,2.0,False,6.0
+George Russell,Mercedes,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,4.0,4.0,0 days 00:00:00.571000,11.0,False,7.0
+Lewis Hamilton,Mercedes,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,11.0,14.0,0 days 00:00:01.275000,4.0,False,8.0
+Pierre Gasly,Alpine,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,9.0,9.0,0 days 00:00:01.304000,16.0,False,9.0
+Fernando Alonso,Aston Martin,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,7.0,7.0,0 days 00:00:00.960000,8.0,False,10.0
+Nico Hulkenberg,Haas F1 Team,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,13.0,12.0,0 days 00:00:01.542000,14.0,False,11.0
+Daniel Ricciardo,RB,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,15.0,13.0,0 days 00:00:02.270000,12.0,False,12.0
+Lance Stroll,Aston Martin,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,8.0,8.0,0 days 00:00:01.184000,7.0,False,13.0
+Esteban Ocon,Alpine,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,16.0,15.0,0 days 00:00:02.322000,9.0,False,15.0
+Logan Sargeant,Williams,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,20.0,18.0,NaT,10.0,False,16.0
+Yuki Tsunoda,RB,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,12.0,11.0,0 days 00:00:01.282000,15.0,False,17.0
+Kevin Magnussen,Haas F1 Team,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,14.0,20.0,0 days 00:00:01.622000,13.0,False,18.0
+Valtteri Bottas,Kick Sauber,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,17.0,16.0,0 days 00:00:02.495000,18.0,False,19.0
+Guanyu Zhou,Kick Sauber,2024,15,59,Zandvoort,0.0,4.56863,19.00588,30.80588,18.0,17.0,0 days 00:00:03.588000,17.0,False,20.0

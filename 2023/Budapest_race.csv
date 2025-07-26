@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,2.0,2.0,0 days 00:00:00.003000,9.0,False,1.0
+Lando Norris,McLaren,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,3.0,3.0,0 days 00:00:00.085000,4.0,False,2.0
+Sergio Perez,Red Bull Racing,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,9.0,9.0,0 days 00:00:00.436000,2.0,False,3.0
+Lewis Hamilton,Mercedes,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,1.0,1.0,0 days 00:00:00,18.0,False,4.0
+Oscar Piastri,McLaren,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,4.0,4.0,0 days 00:00:00.296000,3.0,False,5.0
+George Russell,Mercedes,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,18.0,18.0,0 days 00:00:02.418000,1.0,False,6.0
+Charles Leclerc,Ferrari,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,6.0,6.0,0 days 00:00:00.383000,11.0,False,7.0
+Carlos Sainz,Ferrari,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,11.0,11.0,0 days 00:00:01.094000,6.0,False,8.0
+Fernando Alonso,Aston Martin,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,8.0,8.0,0 days 00:00:00.426000,14.0,False,9.0
+Lance Stroll,Aston Martin,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,14.0,14.0,0 days 00:00:01.535000,8.0,False,10.0
+Valtteri Bottas,Alfa Romeo,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,7.0,7.0,0 days 00:00:00.425000,5.0,False,12.0
+Daniel Ricciardo,AlphaTauri,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,13.0,13.0,0 days 00:00:01.393000,17.0,False,13.0
+Nico Hulkenberg,Haas F1 Team,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,10.0,10.0,0 days 00:00:00.577000,19.0,False,14.0
+Yuki Tsunoda,AlphaTauri,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,17.0,17.0,0 days 00:00:02.310000,13.0,False,15.0
+Guanyu Zhou,Alfa Romeo,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,5.0,5.0,0 days 00:00:00.362000,7.0,False,16.0
+Kevin Magnussen,Haas F1 Team,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,19.0,19.0,0 days 00:00:02.597000,10.0,False,17.0
+Logan Sargeant,Williams,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,20.0,20.0,0 days 00:00:02.639000,16.0,False,18.0
+Esteban Ocon,Alpine,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,12.0,12.0,0 days 00:00:01.232000,15.0,True,19.0
+Pierre Gasly,Alpine,2023,11,33,Budapest,0.0,1.44085,28.80854,48.57927,15.0,15.0,0 days 00:00:01.608000,12.0,True,20.0

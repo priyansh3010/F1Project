@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,1.0,1.0,0 days 00:00:00,2.0,False,1.0
+Sergio Perez,Red Bull Racing,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,2.0,2.0,0 days 00:00:00.066000,1.0,False,2.0
+Carlos Sainz,Ferrari,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,4.0,4.0,0 days 00:00:00.485000,8.0,False,3.0
+Charles Leclerc,Ferrari,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,8.0,8.0,0 days 00:00:00.589000,4.0,False,4.0
+Lando Norris,McLaren,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,3.0,3.0,0 days 00:00:00.292000,6.0,False,5.0
+Fernando Alonso,Aston Martin,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,5.0,5.0,0 days 00:00:00.489000,16.0,False,6.0
+George Russell,Mercedes,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,9.0,9.0,0 days 00:00:00.811000,7.0,False,7.0
+Oscar Piastri,McLaren,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,6.0,6.0,0 days 00:00:00.563000,3.0,False,8.0
+Lewis Hamilton,Mercedes,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,7.0,7.0,0 days 00:00:00.569000,9.0,False,9.0
+Yuki Tsunoda,RB,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,10.0,10.0,0 days 00:00:01.216000,11.0,False,10.0
+Nico Hulkenberg,Haas F1 Team,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,12.0,12.0,0 days 00:00:01.297000,18.0,False,11.0
+Lance Stroll,Aston Martin,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,16.0,16.0,0 days 00:00:01.827000,5.0,False,12.0
+Kevin Magnussen,Haas F1 Team,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,18.0,18.0,0 days 00:00:01.934000,12.0,False,13.0
+Valtteri Bottas,Kick Sauber,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,13.0,13.0,0 days 00:00:01.396000,20.0,False,14.0
+Esteban Ocon,Alpine,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,15.0,15.0,0 days 00:00:01.619000,17.0,False,15.0
+Pierre Gasly,Alpine,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,17.0,17.0,0 days 00:00:01.922000,15.0,False,16.0
+Logan Sargeant,Williams,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,19.0,19.0,0 days 00:00:01.942000,14.0,False,17.0
+Guanyu Zhou,Kick Sauber,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,20.0,20.0,0 days 00:00:01.946000,13.0,True,18.0
+Daniel Ricciardo,RB,2024,4,48,Suzuka,0.0,2.24088,21.69116,37.5011,11.0,11.0,0 days 00:00:01.275000,10.0,True,19.0

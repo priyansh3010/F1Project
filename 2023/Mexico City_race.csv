@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,3.0,3.0,0 days 00:00:00.097000,5.0,False,1.0
+Lewis Hamilton,Mercedes,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,6.0,6.0,0 days 00:00:00.288000,8.0,False,2.0
+Charles Leclerc,Ferrari,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,1.0,1.0,0 days 00:00:00,2.0,False,3.0
+Carlos Sainz,Ferrari,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,2.0,2.0,0 days 00:00:00.067000,1.0,False,4.0
+Lando Norris,McLaren,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,19.0,17.0,0 days 00:00:04.388000,7.0,False,5.0
+George Russell,Mercedes,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,8.0,8.0,0 days 00:00:00.508000,6.0,False,6.0
+Daniel Ricciardo,AlphaTauri,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,4.0,4.0,0 days 00:00:00.216000,15.0,False,7.0
+Oscar Piastri,McLaren,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,7.0,7.0,0 days 00:00:00.457000,19.0,False,8.0
+Esteban Ocon,Alpine,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,16.0,15.0,0 days 00:00:01.914000,11.0,False,10.0
+Pierre Gasly,Alpine,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,11.0,11.0,0 days 00:00:01.355000,16.0,False,11.0
+Yuki Tsunoda,AlphaTauri,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,15.0,18.0,0 days 00:00:01.724000,4.0,False,12.0
+Nico Hulkenberg,Haas F1 Team,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,12.0,12.0,0 days 00:00:01.358000,17.0,False,13.0
+Guanyu Zhou,Alfa Romeo,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,10.0,10.0,0 days 00:00:00.884000,9.0,False,14.0
+Valtteri Bottas,Alfa Romeo,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,9.0,9.0,0 days 00:00:00.866000,10.0,False,15.0
+Logan Sargeant,Williams,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,20.0,19.0,NaT,14.0,True,16.0
+Lance Stroll,Aston Martin,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,18.0,0.0,0 days 00:00:02.061000,13.0,True,17.0
+Fernando Alonso,Aston Martin,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,13.0,13.0,0 days 00:00:01.572000,18.0,True,18.0
+Kevin Magnussen,Haas F1 Team,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,17.0,16.0,0 days 00:00:01.997000,12.0,True,19.0
+Sergio Perez,Red Bull Racing,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,5.0,5.0,0 days 00:00:00.257000,3.0,True,20.0

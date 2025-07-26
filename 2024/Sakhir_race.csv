@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,1.0,1.0,0 days 00:00:00,5.0,False,1.0
+Sergio Perez,Red Bull Racing,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,5.0,5.0,0 days 00:00:00.358000,1.0,False,2.0
+Carlos Sainz,Ferrari,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,4.0,4.0,0 days 00:00:00.328000,2.0,False,3.0
+Charles Leclerc,Ferrari,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,2.0,2.0,0 days 00:00:00.228000,4.0,False,4.0
+George Russell,Mercedes,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,3.0,3.0,0 days 00:00:00.306000,9.0,False,5.0
+Lando Norris,McLaren,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,7.0,7.0,0 days 00:00:00.435000,8.0,False,6.0
+Lewis Hamilton,Mercedes,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,9.0,9.0,0 days 00:00:00.531000,3.0,False,7.0
+Oscar Piastri,McLaren,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,8.0,8.0,0 days 00:00:00.504000,7.0,False,8.0
+Fernando Alonso,Aston Martin,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,6.0,6.0,0 days 00:00:00.363000,12.0,False,9.0
+Lance Stroll,Aston Martin,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,12.0,12.0,0 days 00:00:01.021000,6.0,False,10.0
+Guanyu Zhou,Kick Sauber,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,17.0,17.0,0 days 00:00:01.578000,16.0,False,11.0
+Kevin Magnussen,Haas F1 Team,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,15.0,15.0,0 days 00:00:01.350000,10.0,False,12.0
+Daniel Ricciardo,RB,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,14.0,14.0,0 days 00:00:01.099000,11.0,False,13.0
+Yuki Tsunoda,RB,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,11.0,11.0,0 days 00:00:00.950000,14.0,False,14.0
+Nico Hulkenberg,Haas F1 Team,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,10.0,10.0,0 days 00:00:01.323000,15.0,False,16.0
+Esteban Ocon,Alpine,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,19.0,19.0,0 days 00:00:01.614000,20.0,False,17.0
+Pierre Gasly,Alpine,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,20.0,20.0,0 days 00:00:01.769000,19.0,False,18.0
+Valtteri Bottas,Kick Sauber,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,16.0,16.0,0 days 00:00:01.577000,17.0,False,19.0
+Logan Sargeant,Williams,2024,1,45,Sakhir,0.0,0.78599,18.22739,23.65287,18.0,18.0,0 days 00:00:01.591000,13.0,False,20.0

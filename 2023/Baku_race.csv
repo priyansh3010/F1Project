@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Sergio Perez,Red Bull Racing,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,3.0,3.0,0 days 00:00:00.292000,2.0,False,1.0
+Max Verstappen,Red Bull Racing,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,2.0,2.0,0 days 00:00:00.188000,3.0,False,2.0
+Charles Leclerc,Ferrari,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,1.0,1.0,0 days 00:00:00,4.0,False,3.0
+Fernando Alonso,Aston Martin,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,6.0,6.0,0 days 00:00:01.050000,9.0,False,4.0
+Carlos Sainz,Ferrari,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,4.0,4.0,0 days 00:00:00.813000,1.0,False,5.0
+Lewis Hamilton,Mercedes,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,5.0,5.0,0 days 00:00:00.974000,11.0,False,6.0
+Lance Stroll,Aston Martin,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,9.0,9.0,0 days 00:00:01.408000,6.0,False,7.0
+George Russell,Mercedes,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,11.0,11.0,0 days 00:00:01.451000,5.0,False,8.0
+Lando Norris,McLaren,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,7.0,7.0,0 days 00:00:01.078000,10.0,False,9.0
+Yuki Tsunoda,AlphaTauri,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,8.0,8.0,0 days 00:00:01.378000,20.0,False,10.0
+Oscar Piastri,McLaren,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,10.0,10.0,0 days 00:00:01.408000,7.0,False,11.0
+Kevin Magnussen,Haas F1 Team,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,18.0,16.0,0 days 00:00:03.214000,17.0,False,13.0
+Pierre Gasly,Alpine,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,19.0,17.0,0 days 00:00:04.650000,12.0,False,14.0
+Esteban Ocon,Alpine,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,12.0,19.0,0 days 00:00:01.595000,19.0,False,15.0
+Logan Sargeant,Williams,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,15.0,14.0,0 days 00:00:02.192000,13.0,False,16.0
+Nico Hulkenberg,Haas F1 Team,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,17.0,20.0,0 days 00:00:02.552000,18.0,False,17.0
+Valtteri Bottas,Alfa Romeo,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,14.0,13.0,0 days 00:00:02.056000,16.0,False,18.0
+Guanyu Zhou,Alfa Romeo,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,16.0,15.0,0 days 00:00:02.439000,14.0,True,19.0
+Nyck De Vries,AlphaTauri,2023,4,26,Baku,0.0,1.08313,24.86062,41.21,20.0,18.0,0 days 00:00:15.079000,8.0,True,20.0

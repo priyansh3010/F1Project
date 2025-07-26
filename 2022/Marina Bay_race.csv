@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Sergio Perez,Red Bull Racing,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,2.0,2.0,0 days 00:00:00.022000,8.0,False,1.0
+Charles Leclerc,Ferrari,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,1.0,1.0,0 days 00:00:00,4.0,False,2.0
+Carlos Sainz,Ferrari,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,4.0,4.0,0 days 00:00:00.171000,1.0,False,3.0
+Lando Norris,McLaren,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,6.0,6.0,0 days 00:00:01.172000,17.0,False,4.0
+Daniel Ricciardo,McLaren,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,17.0,16.0,0 days 00:00:06.814000,6.0,False,5.0
+Lance Stroll,Aston Martin,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,12.0,11.0,0 days 00:00:04.799000,14.0,False,6.0
+Max Verstappen,Red Bull Racing,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,8.0,8.0,0 days 00:00:01.983000,2.0,False,7.0
+Sebastian Vettel,Aston Martin,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,14.0,13.0,0 days 00:00:04.968000,12.0,False,8.0
+Lewis Hamilton,Mercedes,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,3.0,3.0,0 days 00:00:00.054000,11.0,False,9.0
+Pierre Gasly,AlphaTauri,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,7.0,7.0,0 days 00:00:01.799000,10.0,False,10.0
+Valtteri Bottas,Alfa Romeo,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,16.0,15.0,0 days 00:00:06.671000,15.0,False,11.0
+Kevin Magnussen,Haas F1 Team,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,9.0,9.0,0 days 00:00:02.161000,13.0,False,12.0
+Mick Schumacher,Haas F1 Team,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,13.0,12.0,0 days 00:00:04.958000,9.0,True,13.0
+George Russell,Mercedes,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,11.0,0.0,0 days 00:00:04.600000,3.0,True,14.0
+Yuki Tsunoda,AlphaTauri,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,10.0,10.0,0 days 00:00:02.571000,7.0,True,15.0
+Esteban Ocon,Alpine,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,18.0,17.0,0 days 00:00:06.925000,5.0,True,16.0
+Fernando Alonso,Alpine,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,5.0,5.0,0 days 00:00:00.554000,18.0,True,18.0
+Nicholas Latifi,Williams,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,20.0,19.0,0 days 00:00:08.120000,19.0,True,19.0
+Guanyu Zhou,Alfa Romeo,2022,17,17,Marina Bay,18.03922,0.9298,26.23255,28.97333,15.0,14.0,0 days 00:00:06.106000,16.0,True,20.0

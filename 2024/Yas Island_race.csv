@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Lando Norris,McLaren,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,1.0,1.0,0 days 00:00:00,2.0,False,1.0
+Carlos Sainz,Ferrari,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,3.0,3.0,0 days 00:00:00.229000,14.0,False,2.0
+Charles Leclerc,Ferrari,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,14.0,19.0,0 days 00:00:01.238000,3.0,False,3.0
+Lewis Hamilton,Mercedes,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,18.0,16.0,0 days 00:00:01.292000,7.0,False,4.0
+George Russell,Mercedes,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,7.0,6.0,0 days 00:00:00.537000,18.0,False,5.0
+Max Verstappen,Red Bull Racing,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,5.0,4.0,0 days 00:00:00.350000,10.0,False,6.0
+Pierre Gasly,Alpine,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,6.0,5.0,0 days 00:00:00.389000,20.0,False,7.0
+Nico Hulkenberg,Haas F1 Team,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,4.0,7.0,0 days 00:00:00.291000,15.0,False,8.0
+Fernando Alonso,Aston Martin,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,8.0,8.0,0 days 00:00:00.601000,13.0,False,9.0
+Oscar Piastri,McLaren,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,2.0,2.0,0 days 00:00:00.209000,1.0,False,10.0
+Yuki Tsunoda,RB,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,11.0,11.0,0 days 00:00:00.824000,12.0,False,12.0
+Guanyu Zhou,Kick Sauber,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,17.0,15.0,0 days 00:00:01.285000,9.0,False,13.0
+Lance Stroll,Aston Martin,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,13.0,13.0,0 days 00:00:01.189000,8.0,False,14.0
+Jack Doohan,Alpine,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,20.0,17.0,0 days 00:00:01.510000,6.0,False,15.0
+Kevin Magnussen,Haas F1 Team,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,15.0,14.0,0 days 00:00:01.282000,4.0,False,16.0
+Liam Lawson,RB,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,12.0,12.0,0 days 00:00:00.877000,11.0,False,17.0
+Valtteri Bottas,Kick Sauber,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,9.0,9.0,0 days 00:00:00.609000,17.0,True,18.0
+Franco Colapinto,Williams,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,19.0,20.0,0 days 00:00:01.317000,16.0,True,19.0
+Sergio Perez,Red Bull Racing,2024,24,68,Yas Island,0.0,1.90068,26.76824,31.80541,10.0,10.0,0 days 00:00:00.669000,5.0,True,20.0

@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,10.0,10.0,0 days 00:00:01.446000,11.0,False,1.0
+Lewis Hamilton,Mercedes,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,7.0,7.0,0 days 00:00:00.765000,1.0,False,2.0
+George Russell,Mercedes,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,1.0,1.0,0 days 00:00:00,7.0,False,3.0
+Carlos Sainz,Ferrari,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,2.0,2.0,0 days 00:00:00.044000,3.0,False,4.0
+Sergio Perez,Red Bull Racing,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,11.0,11.0,0 days 00:00:01.139000,10.0,False,5.0
+Charles Leclerc,Ferrari,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,3.0,3.0,0 days 00:00:00.190000,2.0,False,6.0
+Lando Norris,McLaren,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,4.0,4.0,0 days 00:00:00.392000,9.0,False,7.0
+Fernando Alonso,Alpine,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,6.0,6.0,0 days 00:00:00.701000,5.0,True,8.0
+Esteban Ocon,Alpine,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,5.0,5.0,0 days 00:00:00.641000,6.0,True,9.0
+Sebastian Vettel,Aston Martin,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,18.0,18.0,0 days 00:00:01.896000,14.0,True,10.0
+Lance Stroll,Aston Martin,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,14.0,14.0,0 days 00:00:01.760000,18.0,True,11.0
+Pierre Gasly,AlphaTauri,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,19.0,0.0,0 days 00:00:02.150000,16.0,True,12.0
+Guanyu Zhou,Alfa Romeo,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,12.0,12.0,0 days 00:00:01.196000,8.0,True,13.0
+Mick Schumacher,Haas F1 Team,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,15.0,15.0,0 days 00:00:01.825000,13.0,True,14.0
+Daniel Ricciardo,McLaren,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,9.0,9.0,0 days 00:00:01.002000,4.0,True,15.0
+Kevin Magnussen,Haas F1 Team,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,13.0,13.0,0 days 00:00:01.448000,15.0,True,16.0
+Nicholas Latifi,Williams,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,20.0,19.0,0 days 00:00:02.193000,17.0,True,18.0
+Yuki Tsunoda,AlphaTauri,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,16.0,16.0,0 days 00:00:01.863000,19.0,True,19.0
+Valtteri Bottas,Alfa Romeo,2022,13,13,Budapest,27.54491,4.03413,18.55988,26.72096,8.0,8.0,0 days 00:00:00.780000,12.0,True,20.0

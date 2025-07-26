@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,1.0,1.0,0 days 00:00:00,3.0,False,1.0
+Sergio Perez,Red Bull Racing,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,3.0,3.0,0 days 00:00:00.335000,1.0,False,2.0
+Charles Leclerc,Ferrari,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,2.0,2.0,0 days 00:00:00.319000,11.0,False,3.0
+Oscar Piastri,McLaren,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,5.0,5.0,0 days 00:00:00.617000,6.0,False,4.0
+Fernando Alonso,Aston Martin,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,4.0,4.0,0 days 00:00:00.374000,10.0,False,5.0
+George Russell,Mercedes,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,7.0,7.0,0 days 00:00:00.844000,8.0,False,6.0
+Oliver Bearman,Ferrari,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,11.0,11.0,0 days 00:00:01.170000,2.0,False,7.0
+Lando Norris,McLaren,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,6.0,6.0,0 days 00:00:00.660000,5.0,False,8.0
+Lewis Hamilton,Mercedes,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,8.0,8.0,0 days 00:00:00.988000,7.0,False,9.0
+Nico Hulkenberg,Haas F1 Team,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,15.0,15.0,0 days 00:00:01.583000,13.0,False,10.0
+Kevin Magnussen,Haas F1 Team,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,13.0,13.0,0 days 00:00:01.548000,15.0,False,12.0
+Esteban Ocon,Alpine,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,17.0,17.0,0 days 00:00:02.003000,18.0,False,13.0
+Logan Sargeant,Williams,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,19.0,19.0,0 days 00:00:02.054000,12.0,False,14.0
+Yuki Tsunoda,RB,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,9.0,9.0,0 days 00:00:01.075000,14.0,False,15.0
+Daniel Ricciardo,RB,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,14.0,14.0,0 days 00:00:01.553000,9.0,False,16.0
+Valtteri Bottas,Kick Sauber,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,16.0,16.0,0 days 00:00:01.707000,20.0,False,17.0
+Guanyu Zhou,Kick Sauber,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,20.0,20.0,NaT,16.0,False,18.0
+Lance Stroll,Aston Martin,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,10.0,10.0,0 days 00:00:01.100000,4.0,True,19.0
+Pierre Gasly,Alpine,2024,2,46,Jeddah,0.0,1.30274,25.52808,31.59315,18.0,18.0,0 days 00:00:02.007000,17.0,True,20.0

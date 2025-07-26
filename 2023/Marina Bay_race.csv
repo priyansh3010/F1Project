@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Carlos Sainz,Ferrari,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,1.0,1.0,0 days 00:00:00,3.0,False,1.0
+Lando Norris,McLaren,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,4.0,4.0,0 days 00:00:00.286000,17.0,False,2.0
+Lewis Hamilton,Mercedes,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,5.0,5.0,0 days 00:00:00.501000,2.0,False,3.0
+Charles Leclerc,Ferrari,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,3.0,3.0,0 days 00:00:00.079000,1.0,False,4.0
+Max Verstappen,Red Bull Racing,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,11.0,11.0,0 days 00:00:01.189000,13.0,False,5.0
+Pierre Gasly,Alpine,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,12.0,12.0,0 days 00:00:01.290000,8.0,False,6.0
+Oscar Piastri,McLaren,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,17.0,17.0,0 days 00:00:01.918000,4.0,False,7.0
+Sergio Perez,Red Bull Racing,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,13.0,13.0,0 days 00:00:01.326000,11.0,False,8.0
+Liam Lawson,AlphaTauri,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,10.0,10.0,0 days 00:00:01.284000,15.0,False,9.0
+Kevin Magnussen,Haas F1 Team,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,6.0,6.0,0 days 00:00:00.591000,9.0,False,10.0
+Guanyu Zhou,Alfa Romeo,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,19.0,19.0,0 days 00:00:02.274000,16.0,False,12.0
+Nico Hulkenberg,Haas F1 Team,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,9.0,9.0,0 days 00:00:00.824000,6.0,False,13.0
+Logan Sargeant,Williams,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,18.0,18.0,0 days 00:00:02.268000,14.0,False,14.0
+Fernando Alonso,Aston Martin,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,7.0,7.0,0 days 00:00:00.631000,20.0,False,15.0
+George Russell,Mercedes,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,2.0,2.0,0 days 00:00:00.072000,5.0,False,16.0
+Valtteri Bottas,Alfa Romeo,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,16.0,16.0,0 days 00:00:01.825000,19.0,True,17.0
+Esteban Ocon,Alpine,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,8.0,8.0,0 days 00:00:00.689000,12.0,True,18.0
+Yuki Tsunoda,AlphaTauri,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,15.0,15.0,0 days 00:00:01.007000,10.0,True,19.0
+Lance Stroll,Aston Martin,2023,15,37,Marina Bay,0.0,1.41591,29.84432,36.42216,20.0,nan,0 days 00:00:02.413000,7.0,True,nan

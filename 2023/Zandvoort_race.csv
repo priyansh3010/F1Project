@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,1.0,1.0,0 days 00:00:00,7.0,False,1.0
+Fernando Alonso,Aston Martin,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,5.0,5.0,0 days 00:00:00.939000,11.0,False,2.0
+Pierre Gasly,Alpine,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,12.0,12.0,0 days 00:00:09.561000,17.0,False,3.0
+Sergio Perez,Red Bull Racing,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,7.0,7.0,0 days 00:00:01.313000,1.0,False,4.0
+Carlos Sainz,Ferrari,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,6.0,6.0,0 days 00:00:01.187000,9.0,False,5.0
+Lewis Hamilton,Mercedes,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,13.0,13.0,0 days 00:00:09.584000,3.0,False,6.0
+Lando Norris,McLaren,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,2.0,2.0,0 days 00:00:00.537000,8.0,False,7.0
+Oscar Piastri,McLaren,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,8.0,8.0,0 days 00:00:01.371000,2.0,False,9.0
+Esteban Ocon,Alpine,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,17.0,16.0,0 days 00:00:11.543000,12.0,False,10.0
+Lance Stroll,Aston Martin,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,11.0,11.0,0 days 00:00:09.554000,5.0,False,11.0
+Nico Hulkenberg,Haas F1 Team,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,15.0,14.0,0 days 00:00:09.683000,18.0,False,12.0
+Liam Lawson,AlphaTauri,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,20.0,19.0,0 days 00:00:12.853000,14.0,False,13.0
+Valtteri Bottas,Alfa Romeo,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,19.0,18.0,0 days 00:00:11.693000,16.0,False,14.0
+Yuki Tsunoda,AlphaTauri,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,14.0,17.0,0 days 00:00:09.663000,20.0,False,15.0
+Kevin Magnussen,Haas F1 Team,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,18.0,0.0,0 days 00:00:11.625000,15.0,False,16.0
+George Russell,Mercedes,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,3.0,3.0,0 days 00:00:00.727000,13.0,False,17.0
+Guanyu Zhou,Alfa Romeo,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,16.0,15.0,0 days 00:00:11.500000,19.0,True,18.0
+Charles Leclerc,Ferrari,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,9.0,9.0,0 days 00:00:02.098000,6.0,True,19.0
+Logan Sargeant,Williams,2023,13,35,Zandvoort,22.96651,2.82153,16.79187,24.94115,10.0,10.0,0 days 00:00:06.181000,4.0,True,20.0

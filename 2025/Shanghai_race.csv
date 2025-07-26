@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Oscar Piastri,McLaren,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,1.0,1.0,0 days 00:00:00,3.0,False,1.0
+Lando Norris,McLaren,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,3.0,3.0,0 days 00:00:00.152000,1.0,False,2.0
+George Russell,Mercedes,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,2.0,2.0,0 days 00:00:00.082000,8.0,False,3.0
+Max Verstappen,Red Bull Racing,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,4.0,4.0,0 days 00:00:00.176000,20.0,False,4.0
+Esteban Ocon,Haas F1 Team,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,11.0,11.0,0 days 00:00:00.984000,17.0,False,5.0
+Kimi Antonelli,Mercedes,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,8.0,8.0,0 days 00:00:00.462000,2.0,False,6.0
+Oliver Bearman,Haas F1 Team,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,17.0,17.0,0 days 00:00:01.377000,11.0,False,8.0
+Lance Stroll,Aston Martin,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,14.0,14.0,0 days 00:00:01.132000,13.0,False,9.0
+Carlos Sainz,Williams,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,15.0,15.0,0 days 00:00:01.199000,10.0,False,10.0
+Isack Hadjar,Racing Bulls,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,7.0,7.0,0 days 00:00:00.438000,9.0,False,11.0
+Liam Lawson,Red Bull Racing,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,20.0,20.0,0 days 00:00:01.533000,4.0,False,12.0
+Jack Doohan,Alpine,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,18.0,18.0,0 days 00:00:01.451000,16.0,False,13.0
+Gabriel Bortoleto,Kick Sauber,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,19.0,19.0,0 days 00:00:01.500000,12.0,False,14.0
+Nico Hulkenberg,Kick Sauber,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,12.0,12.0,0 days 00:00:00.991000,19.0,False,15.0
+Yuki Tsunoda,Racing Bulls,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,9.0,9.0,0 days 00:00:00.997000,7.0,False,16.0
+Fernando Alonso,Aston Martin,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,13.0,13.0,0 days 00:00:01.047000,14.0,True,17.0
+Charles Leclerc,Ferrari,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,6.0,6.0,0 days 00:00:00.380000,5.0,True,18.0
+Lewis Hamilton,Ferrari,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,5.0,5.0,0 days 00:00:00.286000,6.0,True,19.0
+Pierre Gasly,Alpine,2025,2,70,Shanghai,0.0,2.18831,27.21558,35.81688,16.0,16.0,0 days 00:00:01.351000,18.0,True,20.0

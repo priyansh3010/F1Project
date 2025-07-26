@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,1.0,1.0,0 days 00:00:00,13.0,False,1.0
+Carlos Sainz,Ferrari,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,3.0,3.0,0 days 00:00:00.797000,15.0,False,2.0
+Lewis Hamilton,Mercedes,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,4.0,4.0,0 days 00:00:01.592000,8.0,False,3.0
+George Russell,Mercedes,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,8.0,8.0,0 days 00:00:02.258000,4.0,False,4.0
+Charles Leclerc,Ferrari,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,15.0,19.0,0 days 00:00:11.709000,3.0,False,5.0
+Esteban Ocon,Alpine,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,7.0,7.0,0 days 00:00:02.230000,2.0,False,6.0
+Valtteri Bottas,Alfa Romeo,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,11.0,11.0,0 days 00:00:05.489000,10.0,False,7.0
+Guanyu Zhou,Alfa Romeo,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,10.0,10.0,0 days 00:00:02.731000,11.0,False,8.0
+Fernando Alonso,Alpine,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,2.0,2.0,0 days 00:00:00.645000,7.0,False,9.0
+Lance Stroll,Aston Martin,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,18.0,17.0,0 days 00:00:14.233000,17.0,False,10.0
+Daniel Ricciardo,McLaren,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,9.0,9.0,0 days 00:00:02.450000,14.0,False,11.0
+Sebastian Vettel,Aston Martin,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,17.0,16.0,0 days 00:00:13.213000,18.0,False,12.0
+Pierre Gasly,AlphaTauri,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,16.0,15.0,0 days 00:00:13.193000,20.0,False,14.0
+Lando Norris,McLaren,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,14.0,14.0,0 days 00:00:12.767000,9.0,False,15.0
+Nicholas Latifi,Williams,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,19.0,18.0,0 days 00:00:14.361000,12.0,False,16.0
+Kevin Magnussen,Haas F1 Team,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,5.0,5.0,0 days 00:00:01.661000,6.0,False,17.0
+Yuki Tsunoda,AlphaTauri,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,20.0,20.0,0 days 00:00:15.276000,16.0,True,18.0
+Mick Schumacher,Haas F1 Team,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,6.0,6.0,0 days 00:00:02.057000,5.0,True,19.0
+Sergio Perez,Red Bull Racing,2022,9,9,Montréal,0.0,3.55247,20.76296,41.26111,13.0,13.0,0 days 00:00:11.828000,1.0,True,20.0

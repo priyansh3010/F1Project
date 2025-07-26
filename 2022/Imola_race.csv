@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,1.0,1.0,0 days 00:00:00,7.0,False,1.0
+Sergio Perez,Red Bull Racing,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,7.0,3.0,0 days 00:00:01.809000,1.0,False,2.0
+Lando Norris,McLaren,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,3.0,5.0,0 days 00:00:01.132000,6.0,False,3.0
+George Russell,Mercedes,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,11.0,11.0,NaT,13.0,False,4.0
+Valtteri Bottas,Alfa Romeo,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,8.0,7.0,0 days 00:00:02.440000,14.0,False,5.0
+Charles Leclerc,Ferrari,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,2.0,2.0,0 days 00:00:00.779000,10.0,False,6.0
+Yuki Tsunoda,AlphaTauri,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,16.0,12.0,NaT,17.0,False,7.0
+Sebastian Vettel,Aston Martin,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,9.0,13.0,0 days 00:00:03.063000,15.0,False,8.0
+Kevin Magnussen,Haas F1 Team,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,4.0,8.0,0 days 00:00:01.165000,12.0,False,9.0
+Lance Stroll,Aston Martin,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,15.0,15.0,0 days 00:00:00.120000,9.0,True,10.0
+Pierre Gasly,AlphaTauri,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,17.0,17.0,NaT,16.0,True,12.0
+Lewis Hamilton,Mercedes,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,13.0,14.0,NaT,11.0,True,13.0
+Esteban Ocon,Alpine,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,19.0,16.0,NaT,5.0,True,14.0
+Guanyu Zhou,Alfa Romeo,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,14.0,0.0,NaT,8.0,True,15.0
+Nicholas Latifi,Williams,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,18.0,19.0,NaT,20.0,True,16.0
+Mick Schumacher,Haas F1 Team,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,12.0,10.0,NaT,4.0,True,17.0
+Daniel Ricciardo,McLaren,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,6.0,6.0,0 days 00:00:01.743000,3.0,True,18.0
+Fernando Alonso,Alpine,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,5.0,9.0,0 days 00:00:01.203000,19.0,True,19.0
+Carlos Sainz,Ferrari,2022,4,4,Imola,0.0,1.48228,12.89937,17.41899,10.0,4.0,NaT,2.0,True,20.0

@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,1.0,1.0,0 days 00:00:00,4.0,False,1.0
+Sergio Perez,Red Bull Racing,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,4.0,4.0,0 days 00:00:00.405000,1.0,False,2.0
+Charles Leclerc,Ferrari,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,2.0,2.0,0 days 00:00:00.010000,3.0,False,3.0
+Esteban Ocon,Alpine,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,5.0,5.0,0 days 00:00:00.861000,7.0,False,4.0
+Lewis Hamilton,Mercedes,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,6.0,6.0,0 days 00:00:00.957000,8.0,False,5.0
+Sebastian Vettel,Aston Martin,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,9.0,9.0,0 days 00:00:01.250000,19.0,False,6.0
+Fernando Alonso,Alpine,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,7.0,7.0,0 days 00:00:01.018000,5.0,False,7.0
+George Russell,Mercedes,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,8.0,8.0,0 days 00:00:01.085000,6.0,False,8.0
+Nicholas Latifi,Williams,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,20.0,20.0,0 days 00:00:02.207000,16.0,False,9.0
+Lando Norris,McLaren,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,10.0,10.0,0 days 00:00:01.699000,11.0,False,10.0
+Daniel Ricciardo,McLaren,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,11.0,11.0,0 days 00:00:01.355000,10.0,False,11.0
+Lance Stroll,Aston Martin,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,19.0,19.0,0 days 00:00:02.115000,9.0,False,12.0
+Yuki Tsunoda,AlphaTauri,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,13.0,13.0,0 days 00:00:01.504000,17.0,False,13.0
+Kevin Magnussen,Haas F1 Team,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,18.0,18.0,0 days 00:00:02.048000,15.0,False,14.0
+Valtteri Bottas,Alfa Romeo,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,12.0,12.0,0 days 00:00:01.405000,14.0,False,15.0
+Guanyu Zhou,Alfa Romeo,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,14.0,14.0,0 days 00:00:01.649000,12.0,False,16.0
+Mick Schumacher,Haas F1 Team,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,15.0,15.0,0 days 00:00:02.135000,18.0,False,17.0
+Pierre Gasly,AlphaTauri,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,17.0,17.0,0 days 00:00:02.018000,13.0,False,18.0
+Carlos Sainz,Ferrari,2022,18,18,Suzuka,98.03922,2.04078,16.71765,19.93059,3.0,3.0,0 days 00:00:00.057000,2.0,True,19.0

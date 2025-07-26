@@ -1,0 +1,19 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Oscar Piastri,McLaren,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,1.0,1.0,0 days 00:00:00,2.0,False,1.0
+Lando Norris,McLaren,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,2.0,2.0,0 days 00:00:00.209000,1.0,False,2.0
+Charles Leclerc,Ferrari,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,7.0,7.0,0 days 00:00:00.585000,5.0,False,3.0
+George Russell,Mercedes,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,4.0,4.0,0 days 00:00:00.302000,6.0,False,4.0
+Nico Hulkenberg,Kick Sauber,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,16.0,15.0,0 days 00:00:01.644000,12.0,False,5.0
+Lewis Hamilton,Ferrari,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,5.0,5.0,0 days 00:00:00.499000,7.0,False,6.0
+Isack Hadjar,Racing Bulls,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,9.0,9.0,0 days 00:00:00.706000,13.0,False,7.0
+Pierre Gasly,Alpine,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,8.0,8.0,0 days 00:00:00.653000,19.0,False,8.0
+Fernando Alonso,Aston Martin,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,10.0,10.0,0 days 00:00:00.738000,14.0,False,9.0
+Max Verstappen,Red Bull Racing,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,3.0,3.0,0 days 00:00:00.302000,20.0,False,10.0
+Liam Lawson,Racing Bulls,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,13.0,13.0,0 days 00:00:01.217000,9.0,False,11.0
+Gabriel Bortoleto,Kick Sauber,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,12.0,12.0,0 days 00:00:01.210000,16.0,False,12.0
+Yuki Tsunoda,Red Bull Racing,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,20.0,19.0,0 days 00:00:01.839000,3.0,False,13.0
+Carlos Sainz,Williams,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,18.0,17.0,0 days 00:00:01.657000,11.0,False,14.0
+Franco Colapinto,Alpine,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,19.0,18.0,0 days 00:00:01.788000,8.0,False,15.0
+Esteban Ocon,Haas F1 Team,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,17.0,16.0,0 days 00:00:01.655000,15.0,False,16.0
+Oliver Bearman,Haas F1 Team,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,15.0,14.0,0 days 00:00:01.769000,17.0,False,17.0
+Kimi Antonelli,Mercedes,2025,9,77,Barcelona,0.0,1.6329,29.12,48.54323,6.0,6.0,0 days 00:00:00.565000,4.0,True,18.0

@@ -1,0 +1,20 @@
+FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+Max Verstappen,Red Bull Racing,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,1.0,1.0,0 days 00:00:00,9.0,False,1.0
+Charles Leclerc,Ferrari,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,2.0,2.0,0 days 00:00:00.139000,16.0,False,2.0
+George Russell,Mercedes,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,4.0,4.0,0 days 00:00:00.343000,11.0,False,3.0
+Sergio Perez,Red Bull Racing,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,9.0,9.0,0 days 00:00:00.726000,1.0,False,4.0
+Lando Norris,McLaren,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,5.0,5.0,0 days 00:00:00.371000,3.0,False,5.0
+Oscar Piastri,McLaren,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,3.0,3.0,0 days 00:00:00.337000,5.0,False,6.0
+Fernando Alonso,Aston Martin,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,7.0,7.0,0 days 00:00:00.639000,13.0,False,7.0
+Yuki Tsunoda,AlphaTauri,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,6.0,6.0,0 days 00:00:00.523000,15.0,False,8.0
+Lewis Hamilton,Mercedes,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,11.0,11.0,0 days 00:00:00.914000,4.0,False,9.0
+Lance Stroll,Aston Martin,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,13.0,13.0,0 days 00:00:00.977000,7.0,False,10.0
+Daniel Ricciardo,AlphaTauri,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,15.0,15.0,0 days 00:00:00.997000,6.0,False,11.0
+Esteban Ocon,Alpine,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,12.0,12.0,0 days 00:00:00.946000,10.0,False,12.0
+Pierre Gasly,Alpine,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,10.0,10.0,0 days 00:00:01.103000,12.0,False,13.0
+Nico Hulkenberg,Haas F1 Team,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,8.0,8.0,0 days 00:00:00.663000,17.0,False,15.0
+Logan Sargeant,Williams,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,20.0,20.0,NaT,14.0,False,16.0
+Guanyu Zhou,Alfa Romeo,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,19.0,19.0,0 days 00:00:01.714000,18.0,False,17.0
+Carlos Sainz,Ferrari,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,16.0,16.0,0 days 00:00:01.293000,2.0,False,18.0
+Valtteri Bottas,Alfa Romeo,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,18.0,18.0,0 days 00:00:01.343000,19.0,False,19.0
+Kevin Magnussen,Haas F1 Team,2023,22,44,Yas Island,0.0,1.79487,26.96282,33.4609,17.0,17.0,0 days 00:00:01.319000,8.0,False,20.0
