@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,1.0,1.0,0 days 00:00:00,4.0,False,1.0
-Lewis Hamilton,Mercedes,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,3.0,3.0,0 days 00:00:00.309000,2.0,False,2.0
-Sergio Perez,Red Bull Racing,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,4.0,4.0,0 days 00:00:00.353000,1.0,False,3.0
-George Russell,Mercedes,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,2.0,2.0,0 days 00:00:00.304000,3.0,False,4.0
-Carlos Sainz,Ferrari,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,5.0,5.0,0 days 00:00:00.576000,7.0,False,5.0
-Charles Leclerc,Ferrari,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,7.0,7.0,0 days 00:00:00.780000,5.0,False,6.0
-Daniel Ricciardo,McLaren,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,11.0,11.0,0 days 00:00:01.550000,8.0,True,7.0
-Esteban Ocon,Alpine,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,10.0,10.0,0 days 00:00:01.235000,9.0,True,8.0
-Lando Norris,McLaren,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,8.0,8.0,0 days 00:00:00.946000,11.0,True,9.0
-Valtteri Bottas,Alfa Romeo,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,6.0,6.0,0 days 00:00:00.626000,12.0,True,10.0
-Pierre Gasly,AlphaTauri,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,14.0,14.0,0 days 00:00:01.897000,13.0,True,11.0
-Guanyu Zhou,Alfa Romeo,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,12.0,12.0,0 days 00:00:01.701000,6.0,True,13.0
-Sebastian Vettel,Aston Martin,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,17.0,16.0,0 days 00:00:02.644000,18.0,True,14.0
-Lance Stroll,Aston Martin,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,18.0,20.0,0 days 00:00:02.745000,17.0,True,15.0
-Mick Schumacher,Haas F1 Team,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,16.0,15.0,0 days 00:00:02.644000,15.0,True,16.0
-Kevin Magnussen,Haas F1 Team,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,15.0,19.0,0 days 00:00:02.058000,16.0,True,17.0
-Nicholas Latifi,Williams,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,20.0,18.0,0 days 00:00:03.392000,19.0,True,18.0
-Fernando Alonso,Alpine,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,9.0,9.0,0 days 00:00:01.164000,10.0,True,19.0
-Yuki Tsunoda,AlphaTauri,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,13.0,13.0,0 days 00:00:01.814000,14.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,1.0,1.0,0.0,4.0,False,1.0
+44,Lewis Hamilton,2,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,3.0,3.0,0.309,2.0,False,2.0
+11,Sergio Perez,1,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,4.0,4.0,0.353,1.0,False,3.0
+63,George Russell,2,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,2.0,2.0,0.304,3.0,False,4.0
+55,Carlos Sainz,3,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,5.0,5.0,0.576,7.0,False,5.0
+16,Charles Leclerc,3,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,7.0,7.0,0.78,5.0,False,6.0
+3,Daniel Ricciardo,4,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,11.0,11.0,1.55,8.0,True,7.0
+31,Esteban Ocon,5,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,10.0,10.0,1.2349999999999999,9.0,True,8.0
+4,Lando Norris,4,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,8.0,8.0,0.946,11.0,True,9.0
+77,Valtteri Bottas,7,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,6.0,6.0,0.626,12.0,True,10.0
+10,Pierre Gasly,6,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,14.0,14.0,1.897,13.0,True,11.0
+23,Alexander Albon,9,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,19.0,17.0,3.084,20.0,True,12.0
+24,Guanyu Zhou,7,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,12.0,12.0,1.701,6.0,True,13.0
+5,Sebastian Vettel,10,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,17.0,16.0,2.644,18.0,True,14.0
+18,Lance Stroll,10,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,18.0,20.0,2.745,17.0,True,15.0
+47,Mick Schumacher,8,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,16.0,15.0,2.644,15.0,True,16.0
+20,Kevin Magnussen,8,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,15.0,19.0,2.058,16.0,True,17.0
+6,Nicholas Latifi,9,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,20.0,18.0,3.392,19.0,True,18.0
+14,Fernando Alonso,5,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,9.0,9.0,1.164,10.0,True,19.0
+22,Yuki Tsunoda,6,2022,20,20,Mexico City,0.0,1.33697,24.31273,41.68909,13.0,13.0,1.814,14.0,True,20.0

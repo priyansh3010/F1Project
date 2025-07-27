@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,1.0,1.0,0 days 00:00:00,12.0,False,1.0
-Fernando Alonso,Aston Martin,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,3.0,2.0,0 days 00:00:01.428000,13.0,False,2.0
-Lewis Hamilton,Mercedes,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,4.0,3.0,0 days 00:00:01.769000,5.0,False,3.0
-Charles Leclerc,Ferrari,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,11.0,10.0,NaT,8.0,False,4.0
-Carlos Sainz,Ferrari,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,8.0,11.0,0 days 00:00:03.436000,11.0,False,5.0
-Sergio Perez,Red Bull Racing,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,12.0,12.0,NaT,1.0,False,6.0
-Esteban Ocon,Alpine,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,6.0,6.0,0 days 00:00:02.087000,17.0,False,8.0
-Lance Stroll,Aston Martin,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,13.0,16.0,NaT,3.0,False,9.0
-Valtteri Bottas,Alfa Romeo,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,15.0,14.0,NaT,20.0,False,10.0
-Oscar Piastri,McLaren,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,9.0,8.0,0 days 00:00:05.491000,7.0,False,11.0
-Pierre Gasly,Alpine,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,17.0,15.0,NaT,6.0,False,12.0
-Lando Norris,McLaren,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,7.0,7.0,0 days 00:00:02.188000,9.0,False,13.0
-Yuki Tsunoda,AlphaTauri,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,16.0,19.0,NaT,18.0,False,14.0
-Nico Hulkenberg,Haas F1 Team,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,2.0,5.0,0 days 00:00:01.244000,14.0,False,15.0
-Guanyu Zhou,Alfa Romeo,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,20.0,20.0,NaT,15.0,False,16.0
-Kevin Magnussen,Haas F1 Team,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,14.0,13.0,NaT,2.0,False,17.0
-Nyck De Vries,AlphaTauri,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,18.0,17.0,NaT,16.0,False,18.0
-George Russell,Mercedes,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,5.0,4.0,0 days 00:00:02.035000,4.0,True,19.0
-Logan Sargeant,Williams,2023,8,30,Montréal,0.0,1.94198,18.53025,30.59321,19.0,18.0,NaT,10.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,1.0,1.0,0.0,12.0,False,1.0
+14,Fernando Alonso,10,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,3.0,2.0,1.428,13.0,False,2.0
+44,Lewis Hamilton,2,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,4.0,3.0,1.7690000000000001,5.0,False,3.0
+16,Charles Leclerc,3,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,11.0,10.0,nan,8.0,False,4.0
+55,Carlos Sainz,3,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,8.0,11.0,3.436,11.0,False,5.0
+11,Sergio Perez,1,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,12.0,12.0,nan,1.0,False,6.0
+23,Alexander Albon,9,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,10.0,9.0,nan,19.0,False,7.0
+31,Esteban Ocon,5,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,6.0,6.0,2.087,17.0,False,8.0
+18,Lance Stroll,10,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,13.0,16.0,nan,3.0,False,9.0
+77,Valtteri Bottas,7,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,15.0,14.0,nan,20.0,False,10.0
+81,Oscar Piastri,4,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,9.0,8.0,5.491,7.0,False,11.0
+10,Pierre Gasly,5,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,17.0,15.0,nan,6.0,False,12.0
+4,Lando Norris,4,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,7.0,7.0,2.188,9.0,False,13.0
+22,Yuki Tsunoda,6,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,16.0,19.0,nan,18.0,False,14.0
+27,Nico Hulkenberg,8,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,2.0,5.0,1.244,14.0,False,15.0
+24,Guanyu Zhou,7,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,20.0,20.0,nan,15.0,False,16.0
+20,Kevin Magnussen,8,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,14.0,13.0,nan,2.0,False,17.0
+21,Nyck De Vries,6,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,18.0,17.0,nan,16.0,False,18.0
+63,George Russell,2,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,5.0,4.0,2.035,4.0,True,19.0
+2,Logan Sargeant,9,2023,8,30,Montreal,0.0,1.94198,18.53025,30.59321,19.0,18.0,nan,10.0,True,20.0

@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-George Russell,Mercedes,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,3.0,1.0,0 days 00:00:00.385000,8.0,False,1.0
-Lewis Hamilton,Mercedes,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,8.0,2.0,0 days 00:00:00.937000,3.0,False,2.0
-Carlos Sainz,Ferrari,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,5.0,7.0,0 days 00:00:00.683000,10.0,False,3.0
-Charles Leclerc,Ferrari,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,10.0,5.0,NaT,5.0,False,4.0
-Fernando Alonso,Alpine,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,7.0,17.0,0 days 00:00:00.830000,6.0,False,5.0
-Max Verstappen,Red Bull Racing,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,2.0,3.0,0 days 00:00:00.203000,9.0,False,6.0
-Sergio Perez,Red Bull Racing,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,9.0,4.0,0 days 00:00:03.927000,2.0,False,7.0
-Esteban Ocon,Alpine,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,6.0,16.0,0 days 00:00:00.751000,7.0,False,8.0
-Valtteri Bottas,Alfa Romeo,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,18.0,14.0,0 days 00:00:03.812000,17.0,False,9.0
-Lance Stroll,Aston Martin,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,15.0,15.0,0 days 00:00:00.536000,13.0,False,10.0
-Sebastian Vettel,Aston Martin,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,13.0,9.0,0 days 00:00:00.004000,15.0,False,11.0
-Guanyu Zhou,Alfa Romeo,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,17.0,13.0,0 days 00:00:03.523000,18.0,False,12.0
-Mick Schumacher,Haas F1 Team,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,20.0,12.0,0 days 00:00:04.687000,1.0,False,13.0
-Pierre Gasly,AlphaTauri,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,12.0,10.0,0 days 00:00:00.001000,19.0,False,14.0
-Nicholas Latifi,Williams,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,16.0,18.0,0 days 00:00:03.421000,11.0,False,16.0
-Yuki Tsunoda,AlphaTauri,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,19.0,0.0,0 days 00:00:04.590000,12.0,True,17.0
-Lando Norris,McLaren,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,4.0,6.0,0 days 00:00:00.589000,14.0,True,18.0
-Kevin Magnussen,Haas F1 Team,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,1.0,8.0,0 days 00:00:00,20.0,True,19.0
-Daniel Ricciardo,McLaren,2022,21,21,São Paulo,0.0,1.44431,23.01078,46.0491,14.0,11.0,0 days 00:00:00.466000,4.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+63,George Russell,2,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,3.0,1.0,0.385,8.0,False,1.0
+44,Lewis Hamilton,2,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,8.0,2.0,0.937,3.0,False,2.0
+55,Carlos Sainz,3,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,5.0,7.0,0.683,10.0,False,3.0
+16,Charles Leclerc,3,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,10.0,5.0,nan,5.0,False,4.0
+14,Fernando Alonso,5,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,7.0,17.0,0.83,6.0,False,5.0
+1,Max Verstappen,1,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,2.0,3.0,0.203,9.0,False,6.0
+11,Sergio Perez,1,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,9.0,4.0,3.927,2.0,False,7.0
+31,Esteban Ocon,5,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,6.0,16.0,0.751,7.0,False,8.0
+77,Valtteri Bottas,7,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,18.0,14.0,3.8120000000000003,17.0,False,9.0
+18,Lance Stroll,10,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,15.0,15.0,0.536,13.0,False,10.0
+5,Sebastian Vettel,10,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,13.0,9.0,0.004,15.0,False,11.0
+24,Guanyu Zhou,7,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,17.0,13.0,3.523,18.0,False,12.0
+47,Mick Schumacher,8,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,20.0,12.0,4.687,1.0,False,13.0
+10,Pierre Gasly,6,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,12.0,10.0,0.001,19.0,False,14.0
+23,Alexander Albon,9,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,11.0,19.0,nan,16.0,False,15.0
+6,Nicholas Latifi,9,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,16.0,18.0,3.421,11.0,False,16.0
+22,Yuki Tsunoda,6,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,19.0,0.0,4.59,12.0,True,17.0
+4,Lando Norris,4,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,4.0,6.0,0.589,14.0,True,18.0
+20,Kevin Magnussen,8,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,1.0,8.0,0.0,20.0,True,19.0
+3,Daniel Ricciardo,4,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,14.0,11.0,0.466,4.0,True,20.0

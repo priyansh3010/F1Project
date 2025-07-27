@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Lewis Hamilton,Mercedes,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,2.0,2.0,0 days 00:00:00.171000,1.0,False,1.0
-Max Verstappen,Red Bull Racing,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,4.0,4.0,0 days 00:00:00.384000,19.0,False,2.0
-Lando Norris,McLaren,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,3.0,3.0,0 days 00:00:00.211000,5.0,False,3.0
-Oscar Piastri,McLaren,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,5.0,5.0,0 days 00:00:00.418000,3.0,False,4.0
-Carlos Sainz,Ferrari,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,7.0,7.0,0 days 00:00:00.690000,11.0,False,5.0
-Nico Hulkenberg,Haas F1 Team,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,6.0,6.0,0 days 00:00:00.519000,17.0,False,6.0
-Lance Stroll,Aston Martin,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,8.0,8.0,0 days 00:00:00.766000,10.0,False,7.0
-Fernando Alonso,Aston Martin,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,10.0,10.0,0 days 00:00:01.098000,8.0,False,8.0
-Yuki Tsunoda,RB,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,13.0,13.0,0 days 00:00:01.450000,15.0,False,10.0
-Logan Sargeant,Williams,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,12.0,12.0,0 days 00:00:01.356000,9.0,False,11.0
-Kevin Magnussen,Haas F1 Team,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,17.0,17.0,0 days 00:00:07.086000,6.0,False,12.0
-Daniel Ricciardo,RB,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,15.0,15.0,0 days 00:00:02.130000,13.0,False,13.0
-Charles Leclerc,Ferrari,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,11.0,11.0,0 days 00:00:01.278000,7.0,False,14.0
-Valtteri Bottas,Kick Sauber,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,16.0,16.0,0 days 00:00:06.612000,14.0,False,15.0
-Esteban Ocon,Alpine,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,18.0,18.0,0 days 00:00:08.738000,20.0,False,16.0
-Sergio Perez,Red Bull Racing,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,19.0,20.0,0 days 00:00:12.529000,4.0,False,17.0
-Guanyu Zhou,Kick Sauber,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,14.0,14.0,0 days 00:00:02.048000,16.0,False,18.0
-George Russell,Mercedes,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,1.0,1.0,0 days 00:00:00,2.0,True,19.0
-Pierre Gasly,Alpine,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,20.0,19.0,0 days 00:00:13.985000,18.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+44,Lewis Hamilton,2,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,2.0,2.0,0.171,1.0,False,1.0
+1,Max Verstappen,1,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,4.0,4.0,0.384,19.0,False,2.0
+4,Lando Norris,4,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,3.0,3.0,0.211,5.0,False,3.0
+81,Oscar Piastri,4,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,5.0,5.0,0.418,3.0,False,4.0
+55,Carlos Sainz,3,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,7.0,7.0,0.69,11.0,False,5.0
+27,Nico Hulkenberg,8,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,6.0,6.0,0.519,17.0,False,6.0
+18,Lance Stroll,10,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,8.0,8.0,0.766,10.0,False,7.0
+14,Fernando Alonso,10,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,10.0,10.0,1.098,8.0,False,8.0
+23,Alexander Albon,9,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,9.0,9.0,0.821,12.0,False,9.0
+22,Yuki Tsunoda,6,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,13.0,13.0,1.45,15.0,False,10.0
+2,Logan Sargeant,9,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,12.0,12.0,1.3559999999999999,9.0,False,11.0
+20,Kevin Magnussen,8,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,17.0,17.0,7.086,6.0,False,12.0
+3,Daniel Ricciardo,6,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,15.0,15.0,2.13,13.0,False,13.0
+16,Charles Leclerc,3,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,11.0,11.0,1.278,7.0,False,14.0
+77,Valtteri Bottas,7,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,16.0,16.0,6.612,14.0,False,15.0
+31,Esteban Ocon,5,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,18.0,18.0,8.738,20.0,False,16.0
+11,Sergio Perez,1,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,19.0,20.0,12.529,4.0,False,17.0
+24,Guanyu Zhou,7,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,14.0,14.0,2.048,16.0,False,18.0
+63,George Russell,2,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,1.0,1.0,0.0,2.0,True,19.0
+10,Pierre Gasly,5,2024,12,56,Silverstone,34.69388,1.3483,15.77075,27.67007,20.0,19.0,13.985,18.0,True,20.0

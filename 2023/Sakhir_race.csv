@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,1.0,1.0,0 days 00:00:00,2.0,False,1.0
-Sergio Perez,Red Bull Racing,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,2.0,2.0,0 days 00:00:00.138000,1.0,False,2.0
-Fernando Alonso,Aston Martin,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,5.0,5.0,0 days 00:00:00.628000,8.0,False,3.0
-Carlos Sainz,Ferrari,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,4.0,4.0,0 days 00:00:00.446000,3.0,False,4.0
-Lewis Hamilton,Mercedes,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,7.0,7.0,0 days 00:00:00.676000,6.0,False,5.0
-Lance Stroll,Aston Martin,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,8.0,8.0,0 days 00:00:01.128000,5.0,False,6.0
-George Russell,Mercedes,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,6.0,6.0,0 days 00:00:00.632000,7.0,False,7.0
-Valtteri Bottas,Alfa Romeo,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,12.0,12.0,0 days 00:00:01.735000,13.0,False,8.0
-Pierre Gasly,Alpine,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,20.0,20.0,0 days 00:00:02.473000,9.0,False,9.0
-Yuki Tsunoda,AlphaTauri,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,14.0,14.0,0 days 00:00:02.802000,19.0,False,11.0
-Logan Sargeant,Williams,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,16.0,16.0,0 days 00:00:01.944000,15.0,False,12.0
-Kevin Magnussen,Haas F1 Team,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,17.0,17.0,0 days 00:00:02.184000,10.0,False,13.0
-Nyck De Vries,AlphaTauri,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,19.0,19.0,0 days 00:00:02.413000,14.0,False,14.0
-Nico Hulkenberg,Haas F1 Team,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,10.0,10.0,0 days 00:00:01.101000,17.0,False,15.0
-Guanyu Zhou,Alfa Romeo,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,13.0,13.0,0 days 00:00:01.765000,12.0,False,16.0
-Lando Norris,McLaren,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,11.0,11.0,0 days 00:00:01.673000,18.0,False,17.0
-Esteban Ocon,Alpine,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,9.0,9.0,0 days 00:00:01.276000,20.0,True,18.0
-Charles Leclerc,Ferrari,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,3.0,3.0,0 days 00:00:00.292000,4.0,True,19.0
-Oscar Piastri,McLaren,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,18.0,18.0,0 days 00:00:02.393000,11.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,1.0,1.0,0.0,2.0,False,1.0
+11,Sergio Perez,1,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,2.0,2.0,0.138,1.0,False,2.0
+14,Fernando Alonso,10,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,5.0,5.0,0.628,8.0,False,3.0
+55,Carlos Sainz,3,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,4.0,4.0,0.446,3.0,False,4.0
+44,Lewis Hamilton,2,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,7.0,7.0,0.676,6.0,False,5.0
+18,Lance Stroll,10,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,8.0,8.0,1.1280000000000001,5.0,False,6.0
+63,George Russell,2,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,6.0,6.0,0.632,7.0,False,7.0
+77,Valtteri Bottas,7,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,12.0,12.0,1.7349999999999999,13.0,False,8.0
+10,Pierre Gasly,5,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,20.0,20.0,2.473,9.0,False,9.0
+23,Alexander Albon,9,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,15.0,15.0,1.7530000000000001,16.0,False,10.0
+22,Yuki Tsunoda,6,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,14.0,14.0,2.802,19.0,False,11.0
+2,Logan Sargeant,9,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,16.0,16.0,1.944,15.0,False,12.0
+20,Kevin Magnussen,8,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,17.0,17.0,2.184,10.0,False,13.0
+21,Nyck De Vries,6,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,19.0,19.0,2.413,14.0,False,14.0
+27,Nico Hulkenberg,8,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,10.0,10.0,1.101,17.0,False,15.0
+24,Guanyu Zhou,7,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,13.0,13.0,1.7650000000000001,12.0,False,16.0
+4,Lando Norris,4,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,11.0,11.0,1.673,18.0,False,17.0
+31,Esteban Ocon,5,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,9.0,9.0,1.276,20.0,True,18.0
+16,Charles Leclerc,3,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,3.0,3.0,0.292,4.0,True,19.0
+81,Oscar Piastri,4,2023,1,23,Sakhir,0.0,0.68323,27.43168,31.0118,18.0,18.0,2.393,11.0,True,20.0

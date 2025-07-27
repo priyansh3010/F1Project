@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Carlos Sainz,Ferrari,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,1.0,1.0,0 days 00:00:00,4.0,False,1.0
-Lando Norris,McLaren,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,3.0,3.0,0 days 00:00:00.314000,17.0,False,2.0
-Charles Leclerc,Ferrari,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,4.0,4.0,0 days 00:00:00.319000,1.0,False,3.0
-Lewis Hamilton,Mercedes,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,6.0,6.0,0 days 00:00:00.705000,5.0,False,4.0
-George Russell,Mercedes,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,5.0,5.0,0 days 00:00:00.410000,6.0,False,5.0
-Max Verstappen,Red Bull Racing,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,2.0,2.0,0 days 00:00:00.225000,18.0,False,6.0
-Kevin Magnussen,Haas F1 Team,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,7.0,7.0,0 days 00:00:00.940000,10.0,False,7.0
-Oscar Piastri,McLaren,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,17.0,17.0,0 days 00:00:01.651000,3.0,False,8.0
-Nico Hulkenberg,Haas F1 Team,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,10.0,10.0,0 days 00:00:01.419000,7.0,False,9.0
-Pierre Gasly,Alpine,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,8.0,8.0,0 days 00:00:00.946000,19.0,False,10.0
-Lance Stroll,Aston Martin,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,14.0,14.0,0 days 00:00:01.348000,13.0,False,11.0
-Franco Colapinto,Williams,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,16.0,16.0,0 days 00:00:01.612000,9.0,False,12.0
-Esteban Ocon,Alpine,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,19.0,0.0,0 days 00:00:01.671000,8.0,False,13.0
-Valtteri Bottas,Kick Sauber,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,15.0,15.0,0 days 00:00:01.871000,20.0,False,14.0
-Guanyu Zhou,Kick Sauber,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,20.0,19.0,0 days 00:00:02.126000,15.0,False,15.0
-Liam Lawson,RB,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,12.0,12.0,0 days 00:00:01.216000,11.0,False,16.0
-Sergio Perez,Red Bull Racing,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,18.0,18.0,0 days 00:00:01.665000,2.0,False,17.0
-Fernando Alonso,Aston Martin,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,13.0,13.0,0 days 00:00:01.222000,14.0,True,18.0
-Yuki Tsunoda,RB,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,11.0,11.0,0 days 00:00:01.183000,12.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+55,Carlos Sainz,3,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,1.0,1.0,0.0,4.0,False,1.0
+4,Lando Norris,4,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,3.0,3.0,0.314,17.0,False,2.0
+16,Charles Leclerc,3,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,4.0,4.0,0.319,1.0,False,3.0
+44,Lewis Hamilton,2,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,6.0,6.0,0.705,5.0,False,4.0
+63,George Russell,2,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,5.0,5.0,0.41,6.0,False,5.0
+1,Max Verstappen,1,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,2.0,2.0,0.225,18.0,False,6.0
+20,Kevin Magnussen,8,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,7.0,7.0,0.94,10.0,False,7.0
+81,Oscar Piastri,4,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,17.0,17.0,1.651,3.0,False,8.0
+27,Nico Hulkenberg,8,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,10.0,10.0,1.419,7.0,False,9.0
+10,Pierre Gasly,5,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,8.0,8.0,0.946,19.0,False,10.0
+18,Lance Stroll,10,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,14.0,14.0,1.3479999999999999,13.0,False,11.0
+43,Franco Colapinto,9,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,16.0,16.0,1.612,9.0,False,12.0
+31,Esteban Ocon,5,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,19.0,0.0,1.671,8.0,False,13.0
+77,Valtteri Bottas,7,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,15.0,15.0,1.871,20.0,False,14.0
+24,Guanyu Zhou,7,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,20.0,19.0,2.126,15.0,False,15.0
+30,Liam Lawson,6,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,12.0,12.0,1.216,11.0,False,16.0
+11,Sergio Perez,1,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,18.0,18.0,1.665,2.0,False,17.0
+14,Fernando Alonso,10,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,13.0,13.0,1.222,14.0,True,18.0
+23,Alexander Albon,9,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,9.0,9.0,1.119,16.0,True,19.0
+22,Yuki Tsunoda,6,2024,20,64,Mexico City,0.0,2.15094,19.88868,35.60252,11.0,11.0,1.183,12.0,True,20.0

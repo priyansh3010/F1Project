@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,1.0,1.0,0 days 00:00:00,9.0,False,1.0
-Lando Norris,McLaren,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,7.0,6.0,0 days 00:00:01.260000,10.0,False,2.0
-Fernando Alonso,Aston Martin,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,4.0,4.0,0 days 00:00:00.660000,3.0,False,3.0
-Sergio Perez,Red Bull Racing,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,9.0,9.0,0 days 00:00:01.594000,1.0,False,4.0
-Lance Stroll,Aston Martin,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,3.0,3.0,0 days 00:00:00.617000,4.0,False,5.0
-Carlos Sainz,Ferrari,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,8.0,7.0,0 days 00:00:01.262000,2.0,False,6.0
-Pierre Gasly,Alpine,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,13.0,15.0,NaT,12.0,False,7.0
-Lewis Hamilton,Mercedes,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,5.0,5.0,0 days 00:00:00.742000,6.0,False,8.0
-Yuki Tsunoda,AlphaTauri,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,16.0,16.0,0 days 00:00:00.110000,17.0,False,9.0
-Esteban Ocon,Alpine,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,12.0,14.0,NaT,13.0,False,10.0
-Logan Sargeant,Williams,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,19.0,19.0,0 days 00:00:00.308000,15.0,False,11.0
-Nico Hulkenberg,Haas F1 Team,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,11.0,11.0,NaT,14.0,False,12.0
-Daniel Ricciardo,AlphaTauri,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,17.0,17.0,0 days 00:00:00.116000,16.0,False,13.0
-Oscar Piastri,McLaren,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,10.0,10.0,NaT,7.0,False,14.0
-George Russell,Mercedes,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,6.0,8.0,0 days 00:00:00.863000,5.0,True,15.0
-Valtteri Bottas,Alfa Romeo,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,18.0,18.0,0 days 00:00:00.228000,20.0,True,16.0
-Guanyu Zhou,Alfa Romeo,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,20.0,20.0,0 days 00:00:00.548000,18.0,True,17.0
-Kevin Magnussen,Haas F1 Team,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,14.0,12.0,NaT,11.0,True,18.0
-Charles Leclerc,Ferrari,2023,20,42,São Paulo,0.54645,1.30929,20.46011,46.77596,2.0,2.0,0 days 00:00:00.294000,8.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,1.0,1.0,0.0,9.0,False,1.0
+4,Lando Norris,4,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,7.0,6.0,1.26,10.0,False,2.0
+14,Fernando Alonso,10,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,4.0,4.0,0.66,3.0,False,3.0
+11,Sergio Perez,1,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,9.0,9.0,1.5939999999999999,1.0,False,4.0
+18,Lance Stroll,10,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,3.0,3.0,0.617,4.0,False,5.0
+55,Carlos Sainz,3,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,8.0,7.0,1.262,2.0,False,6.0
+10,Pierre Gasly,5,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,13.0,15.0,nan,12.0,False,7.0
+44,Lewis Hamilton,2,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,5.0,5.0,0.742,6.0,False,8.0
+22,Yuki Tsunoda,6,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,16.0,16.0,0.11,17.0,False,9.0
+31,Esteban Ocon,5,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,12.0,14.0,nan,13.0,False,10.0
+2,Logan Sargeant,9,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,19.0,19.0,0.308,15.0,False,11.0
+27,Nico Hulkenberg,8,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,11.0,11.0,nan,14.0,False,12.0
+3,Daniel Ricciardo,6,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,17.0,17.0,0.116,16.0,False,13.0
+81,Oscar Piastri,4,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,10.0,10.0,nan,7.0,False,14.0
+63,George Russell,2,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,6.0,8.0,0.863,5.0,True,15.0
+77,Valtteri Bottas,7,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,18.0,18.0,0.228,20.0,True,16.0
+24,Guanyu Zhou,7,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,20.0,20.0,0.548,18.0,True,17.0
+20,Kevin Magnussen,8,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,14.0,12.0,nan,11.0,True,18.0
+23,Alexander Albon,9,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,15.0,13.0,0.113,19.0,True,19.0
+16,Charles Leclerc,3,2023,20,42,Sao Paulo,0.54645,1.30929,20.46011,46.77596,2.0,2.0,0.294,8.0,True,20.0

@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,1.0,1.0,0 days 00:00:00,5.0,False,1.0
-George Russell,Mercedes,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,6.0,6.0,0 days 00:00:00.805000,4.0,False,2.0
-Charles Leclerc,Ferrari,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,2.0,2.0,0 days 00:00:00.021000,3.0,False,3.0
-Lewis Hamilton,Mercedes,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,4.0,4.0,0 days 00:00:00.306000,6.0,False,4.0
-Sergio Perez,Red Bull Racing,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,5.0,5.0,0 days 00:00:00.735000,1.0,False,5.0
-Fernando Alonso,Alpine,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,13.0,13.0,0 days 00:00:01.271000,12.0,False,6.0
-Lando Norris,McLaren,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,7.0,7.0,0 days 00:00:00.832000,17.0,False,7.0
-Carlos Sainz,Ferrari,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,3.0,3.0,0 days 00:00:00.092000,2.0,False,8.0
-Esteban Ocon,Alpine,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,12.0,12.0,0 days 00:00:01.263000,13.0,False,9.0
-Lance Stroll,Aston Martin,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,10.0,10.0,0 days 00:00:01.074000,19.0,False,10.0
-Pierre Gasly,AlphaTauri,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,11.0,11.0,0 days 00:00:01.170000,9.0,False,11.0
-Mick Schumacher,Haas F1 Team,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,8.0,8.0,0 days 00:00:01.100000,18.0,False,13.0
-Sebastian Vettel,Aston Martin,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,19.0,19.0,0 days 00:00:02.049000,10.0,False,14.0
-Kevin Magnussen,Haas F1 Team,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,18.0,18.0,0 days 00:00:01.977000,8.0,False,15.0
-Guanyu Zhou,Alfa Romeo,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,14.0,14.0,0 days 00:00:01.362000,16.0,False,16.0
-Daniel Ricciardo,McLaren,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,17.0,17.0,0 days 00:00:01.739000,7.0,False,17.0
-Nicholas Latifi,Williams,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,20.0,20.0,0 days 00:00:03.011000,15.0,True,18.0
-Valtteri Bottas,Alfa Romeo,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,16.0,16.0,0 days 00:00:01.619000,14.0,True,19.0
-Yuki Tsunoda,AlphaTauri,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,9.0,9.0,0 days 00:00:02.214000,11.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,1.0,1.0,0.0,5.0,False,1.0
+63,George Russell,2,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,6.0,6.0,0.805,4.0,False,2.0
+16,Charles Leclerc,3,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,2.0,2.0,0.021,3.0,False,3.0
+44,Lewis Hamilton,2,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,4.0,4.0,0.306,6.0,False,4.0
+11,Sergio Perez,1,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,5.0,5.0,0.735,1.0,False,5.0
+14,Fernando Alonso,5,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,13.0,13.0,1.271,12.0,False,6.0
+4,Lando Norris,4,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,7.0,7.0,0.832,17.0,False,7.0
+55,Carlos Sainz,3,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,3.0,3.0,0.092,2.0,False,8.0
+31,Esteban Ocon,5,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,12.0,12.0,1.263,13.0,False,9.0
+18,Lance Stroll,10,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,10.0,10.0,1.074,19.0,False,10.0
+10,Pierre Gasly,6,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,11.0,11.0,1.17,9.0,False,11.0
+23,Alexander Albon,9,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,15.0,15.0,1.46,20.0,False,12.0
+47,Mick Schumacher,8,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,8.0,8.0,1.1,18.0,False,13.0
+5,Sebastian Vettel,10,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,19.0,19.0,2.049,10.0,False,14.0
+20,Kevin Magnussen,8,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,18.0,18.0,1.9769999999999999,8.0,False,15.0
+24,Guanyu Zhou,7,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,14.0,14.0,1.362,16.0,False,16.0
+3,Daniel Ricciardo,4,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,17.0,17.0,1.7389999999999999,7.0,False,17.0
+6,Nicholas Latifi,9,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,20.0,20.0,3.011,15.0,True,18.0
+77,Valtteri Bottas,7,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,16.0,16.0,1.619,14.0,True,19.0
+22,Yuki Tsunoda,6,2022,15,15,Zandvoort,0.0,1.06196,22.73006,33.44601,9.0,9.0,2.214,11.0,True,20.0

@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,1.0,1.0,0 days 00:00:00,15.0,False,1.0
-Charles Leclerc,Ferrari,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,2.0,2.0,0 days 00:00:00.048000,3.0,False,2.0
-Sergio Perez,Red Bull Racing,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,15.0,15.0,0 days 00:01:02.297000,1.0,False,3.0
-Lando Norris,McLaren,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,4.0,4.0,0 days 00:00:00.267000,13.0,False,4.0
-Fernando Alonso,Aston Martin,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,7.0,7.0,0 days 00:00:00.520000,6.0,False,5.0
-Carlos Sainz,Ferrari,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,3.0,3.0,0 days 00:00:00.190000,2.0,False,6.0
-George Russell,Mercedes,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,11.0,11.0,0 days 00:00:01.037000,5.0,False,7.0
-Lewis Hamilton,Mercedes,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,5.0,5.0,0 days 00:00:00.428000,11.0,False,8.0
-Lance Stroll,Aston Martin,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,6.0,6.0,0 days 00:00:00.502000,7.0,False,9.0
-Pierre Gasly,Alpine,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,9.0,9.0,0 days 00:00:00.779000,12.0,False,10.0
-Guanyu Zhou,Alfa Romeo,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,17.0,17.0,0 days 00:00:01.427000,14.0,False,12.0
-Logan Sargeant,Williams,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,18.0,18.0,0 days 00:00:01.557000,10.0,False,13.0
-Esteban Ocon,Alpine,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,12.0,12.0,0 days 00:00:01.062000,9.0,False,14.0
-Valtteri Bottas,Alfa Romeo,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,14.0,14.0,0 days 00:00:01.289000,17.0,False,15.0
-Oscar Piastri,McLaren,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,13.0,13.0,0 days 00:00:01.214000,4.0,False,16.0
-Nyck De Vries,AlphaTauri,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,20.0,20.0,0 days 00:00:01.583000,16.0,False,17.0
-Kevin Magnussen,Haas F1 Team,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,19.0,19.0,0 days 00:00:01.580000,8.0,False,18.0
-Yuki Tsunoda,AlphaTauri,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,16.0,16.0,0 days 00:00:01.393000,20.0,False,19.0
-Nico Hulkenberg,Haas F1 Team,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,8.0,8.0,0 days 00:00:00.699000,19.0,True,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,1.0,1.0,0.0,15.0,False,1.0
+16,Charles Leclerc,3,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,2.0,2.0,0.048,3.0,False,2.0
+11,Sergio Perez,1,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,15.0,15.0,62.297,1.0,False,3.0
+4,Lando Norris,4,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,4.0,4.0,0.267,13.0,False,4.0
+14,Fernando Alonso,10,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,7.0,7.0,0.52,6.0,False,5.0
+55,Carlos Sainz,3,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,3.0,3.0,0.19,2.0,False,6.0
+63,George Russell,2,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,11.0,11.0,1.037,5.0,False,7.0
+44,Lewis Hamilton,2,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,5.0,5.0,0.428,11.0,False,8.0
+18,Lance Stroll,10,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,6.0,6.0,0.502,7.0,False,9.0
+10,Pierre Gasly,5,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,9.0,9.0,0.779,12.0,False,10.0
+23,Alexander Albon,9,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,10.0,10.0,1.432,18.0,False,11.0
+24,Guanyu Zhou,7,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,17.0,17.0,1.427,14.0,False,12.0
+2,Logan Sargeant,9,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,18.0,18.0,1.557,10.0,False,13.0
+31,Esteban Ocon,5,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,12.0,12.0,1.062,9.0,False,14.0
+77,Valtteri Bottas,7,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,14.0,14.0,1.289,17.0,False,15.0
+81,Oscar Piastri,4,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,13.0,13.0,1.214,4.0,False,16.0
+21,Nyck De Vries,6,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,20.0,20.0,1.583,16.0,False,17.0
+20,Kevin Magnussen,8,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,19.0,19.0,1.58,8.0,False,18.0
+22,Yuki Tsunoda,6,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,16.0,16.0,1.393,20.0,False,19.0
+27,Nico Hulkenberg,8,2023,9,31,Spielberg,1.96078,1.09739,22.39804,32.05425,8.0,8.0,0.699,19.0,True,20.0

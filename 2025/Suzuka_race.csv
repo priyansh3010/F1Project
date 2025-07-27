@@ -1,20 +1,21 @@
-FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-Max Verstappen,Red Bull Racing,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,1.0,1.0,0 days 00:00:00,15.0,False,1.0
-Lando Norris,McLaren,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,2.0,2.0,0 days 00:00:00.012000,3.0,False,2.0
-Oscar Piastri,McLaren,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,3.0,3.0,0 days 00:00:00.044000,2.0,False,3.0
-Charles Leclerc,Ferrari,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,4.0,4.0,0 days 00:00:00.316000,8.0,False,4.0
-George Russell,Mercedes,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,5.0,5.0,0 days 00:00:00.335000,6.0,False,5.0
-Kimi Antonelli,Mercedes,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,6.0,6.0,0 days 00:00:00.572000,5.0,False,6.0
-Lewis Hamilton,Ferrari,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,8.0,8.0,0 days 00:00:00.627000,4.0,False,7.0
-Isack Hadjar,Racing Bulls,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,7.0,7.0,0 days 00:00:00.586000,14.0,False,8.0
-Oliver Bearman,Haas F1 Team,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,10.0,10.0,0 days 00:00:00.884000,18.0,False,10.0
-Fernando Alonso,Aston Martin,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,13.0,12.0,0 days 00:00:00.914000,20.0,False,11.0
-Yuki Tsunoda,Red Bull Racing,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,15.0,14.0,0 days 00:00:01.017000,1.0,False,12.0
-Pierre Gasly,Alpine,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,11.0,11.0,0 days 00:00:00.839000,19.0,False,13.0
-Carlos Sainz,Williams,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,12.0,15.0,0 days 00:00:00.853000,9.0,False,14.0
-Jack Doohan,Alpine,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,19.0,19.0,0 days 00:00:01.894000,11.0,False,15.0
-Nico Hulkenberg,Kick Sauber,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,16.0,16.0,0 days 00:00:01.587000,17.0,False,16.0
-Liam Lawson,Racing Bulls,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,14.0,13.0,0 days 00:00:00.923000,7.0,False,17.0
-Esteban Ocon,Haas F1 Team,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,18.0,18.0,0 days 00:00:01.713000,10.0,False,18.0
-Gabriel Bortoleto,Kick Sauber,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,17.0,17.0,0 days 00:00:01.639000,16.0,False,19.0
-Lance Stroll,Aston Martin,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,20.0,20.0,0 days 00:00:02.288000,13.0,False,20.0
+DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
+1,Max Verstappen,1,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,1.0,1.0,0.0,15.0,False,1.0
+4,Lando Norris,4,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,2.0,2.0,0.012,3.0,False,2.0
+81,Oscar Piastri,4,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,3.0,3.0,0.044,2.0,False,3.0
+16,Charles Leclerc,3,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,4.0,4.0,0.316,8.0,False,4.0
+63,George Russell,2,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,5.0,5.0,0.335,6.0,False,5.0
+12,Kimi Antonelli,2,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,6.0,6.0,0.572,5.0,False,6.0
+44,Lewis Hamilton,3,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,8.0,8.0,0.627,4.0,False,7.0
+6,Isack Hadjar,6,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,7.0,7.0,0.586,14.0,False,8.0
+23,Alexander Albon,9,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,9.0,9.0,0.632,12.0,False,9.0
+87,Oliver Bearman,8,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,10.0,10.0,0.884,18.0,False,10.0
+14,Fernando Alonso,10,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,13.0,12.0,0.914,20.0,False,11.0
+22,Yuki Tsunoda,1,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,15.0,14.0,1.017,1.0,False,12.0
+10,Pierre Gasly,5,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,11.0,11.0,0.839,19.0,False,13.0
+55,Carlos Sainz,9,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,12.0,15.0,0.853,9.0,False,14.0
+7,Jack Doohan,5,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,19.0,19.0,1.8940000000000001,11.0,False,15.0
+27,Nico Hulkenberg,7,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,16.0,16.0,1.587,17.0,False,16.0
+30,Liam Lawson,6,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,14.0,13.0,0.923,7.0,False,17.0
+31,Esteban Ocon,8,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,18.0,18.0,1.713,10.0,False,18.0
+5,Gabriel Bortoleto,7,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,17.0,17.0,1.639,16.0,False,19.0
+18,Lance Stroll,10,2025,3,71,Suzuka,0.0,1.20214,14.43,20.51429,20.0,20.0,2.288,13.0,False,20.0
