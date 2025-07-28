@@ -14,7 +14,7 @@ DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,Win
 27,Nico Hulkenberg,8,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,12.0,12.0,1.358,17.0,False,13.0
 24,Guanyu Zhou,7,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,10.0,10.0,0.884,9.0,False,14.0
 77,Valtteri Bottas,7,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,9.0,9.0,0.866,10.0,False,15.0
-2,Logan Sargeant,9,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,20.0,19.0,nan,14.0,True,16.0
+2,Logan Sargeant,9,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,20.0,19.0,77.166,14.0,True,16.0
 18,Lance Stroll,10,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,18.0,0.0,2.061,13.0,True,17.0
 14,Fernando Alonso,10,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,13.0,13.0,1.572,18.0,True,18.0
 20,Kevin Magnussen,8,2023,19,41,Mexico City,0.0,1.49,25.54737,45.63947,17.0,16.0,1.9969999999999999,12.0,True,19.0

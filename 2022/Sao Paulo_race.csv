@@ -2,7 +2,7 @@ DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,Win
 63,George Russell,2,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,3.0,1.0,0.385,8.0,False,1.0
 44,Lewis Hamilton,2,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,8.0,2.0,0.937,3.0,False,2.0
 55,Carlos Sainz,3,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,5.0,7.0,0.683,10.0,False,3.0
-16,Charles Leclerc,3,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,10.0,5.0,nan,5.0,False,4.0
+16,Charles Leclerc,3,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,10.0,5.0,0.069,5.0,False,4.0
 14,Fernando Alonso,5,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,7.0,17.0,0.83,6.0,False,5.0
 1,Max Verstappen,1,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,2.0,3.0,0.203,9.0,False,6.0
 11,Sergio Perez,1,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,9.0,4.0,3.927,2.0,False,7.0
@@ -13,7 +13,7 @@ DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,Win
 24,Guanyu Zhou,7,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,17.0,13.0,3.523,18.0,False,12.0
 47,Mick Schumacher,8,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,20.0,12.0,4.687,1.0,False,13.0
 10,Pierre Gasly,6,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,12.0,10.0,0.001,19.0,False,14.0
-23,Alexander Albon,9,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,11.0,19.0,nan,16.0,False,15.0
+23,Alexander Albon,9,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,11.0,19.0,0.75,16.0,False,15.0
 6,Nicholas Latifi,9,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,16.0,18.0,3.421,11.0,False,16.0
 22,Yuki Tsunoda,6,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,19.0,0.0,4.59,12.0,True,17.0
 4,Lando Norris,4,2022,21,21,Sao Paulo,0.0,1.44431,23.01078,46.0491,4.0,6.0,0.589,14.0,True,18.0

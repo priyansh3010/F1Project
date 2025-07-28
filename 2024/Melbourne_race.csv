@@ -9,7 +9,7 @@ DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,Win
 14,Fernando Alonso,10,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,10.0,10.0,1.637,9.0,False,8.0
 27,Nico Hulkenberg,8,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,16.0,16.0,2.061,14.0,False,9.0
 20,Kevin Magnussen,8,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,14.0,14.0,1.512,16.0,False,10.0
-23,Alexander Albon,9,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,12.0,12.0,1.252,20.0,False,11.0
+23,Alexander Albon,9,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,12.0,12.0,1.252,0,False,11.0
 3,Daniel Ricciardo,6,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,18.0,18.0,2.17,8.0,False,12.0
 10,Pierre Gasly,5,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,17.0,17.0,2.067,15.0,False,13.0
 77,Valtteri Bottas,7,2024,3,47,Melbourne,0.0,0.95347,20.62222,38.40208,13.0,13.0,1.425,19.0,False,14.0

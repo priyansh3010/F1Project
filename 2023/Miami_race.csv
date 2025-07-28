@@ -1,5 +1,5 @@
 DriverNumber,FullName,TeamName,Season,RoundNumber,RacesInGEEra,Location,Rain,WindSpeed,AirTemp,TrackTemp,QualifyingPos,StartingPos,GapToPole,TeammateQualifyingPos,Retired,FinishingPos
-1,Max Verstappen,1,2023,5,27,Miami,0.0,3.97032,27.11742,36.68903,9.0,9.0,nan,1.0,False,1.0
+1,Max Verstappen,1,2023,5,27,Miami,0.0,3.97032,27.11742,36.68903,9.0,9.0,0.0,1.0,False,1.0
 11,Sergio Perez,1,2023,5,27,Miami,0.0,3.97032,27.11742,36.68903,1.0,1.0,0.0,9.0,False,2.0
 14,Fernando Alonso,10,2023,5,27,Miami,0.0,3.97032,27.11742,36.68903,2.0,2.0,0.361,18.0,False,3.0
 63,George Russell,2,2023,5,27,Miami,0.0,3.97032,27.11742,36.68903,6.0,6.0,0.963,13.0,False,4.0
