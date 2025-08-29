@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+body {
+    margin: 0;
+    padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.driver-name-container {
+    background-color: rgb(2, 190, 9);
+    margin: 0;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.driver-card {
+    font-size: 1.7rem;
+    text-align: center;
+    background-color: rgb(0, 128, 0);
+    margin: 10px 0;
+    padding: 5px 10px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    max-width: 350px;
+    border-radius: 5px;
+    border: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.qualifying-input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
-
-.App-link {
-  color: #61dafb;
+.qualifying-input-container p {
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.qualifying-input-container input {
+    width: 50%;
+    max-width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
 }
