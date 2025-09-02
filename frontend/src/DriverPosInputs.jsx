@@ -1,51 +1,81 @@
 import { useEffect, useState } from 'react';    
 
-
 function DriverPosInputs() {
 
-    const [driverIds, setDriverIds] = useState();
+    const [drivers, setDrivers] = useState({});
     
         useEffect(() => {
-            fetch("http://192.168.29.125:5000/api/driverIds")
+            fetch("http://192.168.29.125:5000/api/driverNames")
             .then((response) => response.json())
             .then((data) => {
-                console.log(data.driverIds);
-                setDriverIds(data.driverIds);
+                console.log(data.driverNames);
+                setDrivers(data.driverNames);
             })
             .catch((error) => console.error("Error fetching Driver IDs:", error));
         }, []);
+
+    const [driverQualifyingPos, setDriverQualifyingPos] = useState({});
+
+    function handleDriverQualifyingPosChange(driverId, event) {
+        setDriverQualifyingPos(prev => ({
+            ...prev,
+            [driverId] : event.target.value
+        }));
+    }
+
+    async function handleSubmit(event) {
+        event.preventDefault();
+
+        try {
+            const response = await fetch("http://192.168.29.125:5000/api/submitQualifying", {
+                method : "POST",
+                headers : {
+                    "Content-Type" : "application/json"
+                },
+                body : JSON.stringify(driverQualifyingPos)
+            });
+
+            console.log(response);
+            const result = await response.json();
+            console.log(result);
+        }
+        catch (error) {
+            console.log("ERROR");
+        }
+    }
 
     return (
     <>
         <div>
             <h1>Driver Positions</h1>
         </div>
-        <div className="driver-name-container">
-            {driverIds ? Object.entries(driverIds).map(([key, _]) => (
-                <>
-                <label>{key}</label>
-                <input type="number" key={key} /><br />
-                </>
-            )) : <>
-                    <div className="driver-card">
-                        <p>Max Verstappen</p>
-                        <div className="qualifying-input-container">
-                            <p>Qualifying Position: </p>
-                            <input type="number" name="" id="" />
-                        </div>
-                    </div>
-                </>}
+        <form onSubmit={handleSubmit}>
+        <div className="container">
+                {
+                    drivers ? Object.entries(drivers).map(([key, value]) => (
+                        <>
+                            <div className="card" key={key}>
+                                <p>{value}</p>
+                                <div className="input-container">
+                                    <p>Qualifying Position: </p>
+                                    <input type="number" onChange={e => handleDriverQualifyingPosChange(key, e)} value={driverQualifyingPos[key] || ""} />
+                                </div>
+                            </div>
+                        </>
+                    )) : <>
+                            <div className="card">
+                                <p>Max Verstappen</p>
+                                <div className="input-container">
+                                    <p>Qualifying Position: </p>
+                                    <input type="number" name="" id="" />
+                                </div>
+                                <h1>Error!</h1>
+                            </div>
+                        </>
+                }
         </div>
-        <div>
-            <br />
-            <label>Total rain before race start (time period of 4 hours)</label><input type="number" /><br />
-            <label>Total rain from race start onwards (time period of 3 hours)</label><input type="number" /><br />
-        </div>
-        <div>
-            <label>Track Location</label><br />
-            <label>Hello there Dad</label><br />
-            <label>Hello there Mom</label>
-        </div>
+        <button type="submit">Submit</button>
+        </form>
     </>
   );
 }
