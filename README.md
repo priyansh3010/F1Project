@@ -10,8 +10,8 @@ XGBoost outperformed Random Forest across nearly every metric on the held-out **
 
 | Metric | XGBoost | Random Forest |
 |---|---|---|
-| MAE | **1.996** | 2.208 |
-| RMSE | **2.838** | 3.015 |
+| Mean Absolute Error | **1.996** | 2.208 |
+| Root Mean Squared Error | **2.838** | 3.015 |
 | R² | **0.622** | 0.579 |
 | Median Absolute Error | 1.458 | 1.458 |
 | Spearman ρ | **0.811** | 0.789 |
