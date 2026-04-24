@@ -121,11 +121,3 @@ track_names = {
     24: 'Las Vegas',
     25: 'Shanghai'
 }
-
-
-t = {}
-
-for temp in track_ids:
-    t[track_ids[temp]] = temp
-
-print(t)
