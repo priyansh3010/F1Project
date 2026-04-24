@@ -71,11 +71,11 @@ Evaluation
 ## 🚀 Features
 
 - **Automated data ingestion** from FastF1 and Open-Meteo with CSV caching for reproducible preprocessing
-- **Multi-driver modeling** — independent regression for all 20 drivers, unified into a single race order prediction
-- **Custom ranking logic** — converts continuous regression outputs into a consistent finishing position ranking
-- **Full-season blind evaluation** — no 2025 data was seen during training or validation
-- **Strong circuit generalization** — Spearman above 0.93 at 7 different circuits, peaking at Suzuka (0.976)
-- **Persisted evaluation results** — per-race metrics and season averages exported to CSV for both models, alongside driver-level prediction breakdowns (qualifying position → predicted finish → actual finish) for every 2025 race, available in [`results/`](./results/)
+- **Multi-driver modeling** - independent regression for all 20 drivers, unified into a single race order prediction
+- **Custom ranking logic** - converts continuous regression outputs into a consistent finishing position ranking
+- **Full-season blind evaluation** - no 2025 data was seen during training or validation
+- **Strong circuit generalization** - Spearman above 0.93 at 7 different circuits, peaking at Suzuka (0.976)
+- **Persisted evaluation results** - per-race metrics and season averages exported to CSV for both models, alongside driver-level prediction breakdowns (qualifying position → predicted finish → actual finish) for every 2025 race, available in [`results/`](./results/)
 
 ---
 
